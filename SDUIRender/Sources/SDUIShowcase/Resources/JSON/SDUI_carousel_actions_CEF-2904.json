@@ -1,0 +1,293 @@
+{
+    "responsiveLayouts": [
+        {
+            "id": "9bc7f6542670c3706826ab417b4ed5c1",
+            "name": "pruebas-carousel-new-kids-app",
+            "minWidth": 390,
+            "dimensions": {
+                "width": 390,
+                "height": 226
+            },
+            "componentTree": {
+                "id": "65:1541_app",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 5.128,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                },
+                "styles": {},
+                "children": [
+                    {
+                        "id": "247:5500_carousel-heading-the-new-header",
+                        "componentType": "container",
+                        "children": [
+                            {
+                                "id": "247:5499_title-en-gb",
+                                "name": "title",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "componentType": "text",
+                                "styles": {
+                                    "color": "mds-color-content-default",
+                                    "fontFamily": "Neue Helvetica for Zara",
+                                    "fontSize": 13,
+                                    "fontWeight": 500,
+                                    "fontStyle": "Medium",
+                                    "textAlign": "start",
+                                    "letterSpacing": 0.062,
+                                    "lineHeight": 1.231
+                                },
+                                "textContent": "THE NEW"
+                            }
+                        ],
+                        "name": "fg-row",
+                        "direction": "horizontal",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "styles": {}
+                    },
+                    {
+                        "id": "65:1549_carousel",
+                        "name": "sdui-carousel",
+                        "positioning": {
+                            "widthPercentage": 100
+                        },
+                        "scrollMode": "free",
+                        "itemSpacing": 20,
+                        "dataSourceKey": "carousel",
+                        "loop": false,
+                        "autoPlay": false,
+                        "offsetStart": 0,
+                        "offsetEnd": 0,
+                        "visibleItems": 3.57,
+                        "componentType": "carousel",
+                        "children": [
+                            {
+                                "id": "I65:1549;2316:1091_carousel-item",
+                                "name": "fg-column",
+                                "componentType": "container",
+                                "direction": "vertical",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "styles": {},
+                                "children": [
+                                    {
+                                        "id": "I65:1549;2316:1091;2487:1002_image",
+                                        "name": "Image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "componentType": "media"
+                                    },
+                                    {
+                                        "id": "I65:1549;2316:1091;2465:1231_carousel-title",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "I65:1549;2316:1091;2465:1231;2497:1530;2053:1151_label",
+                                                "name": "label",
+                                                "positioning": {
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 0,
+                                                    "paddingEnd": 0
+                                                },
+                                                "componentType": "text",
+                                                "styles": {
+                                                    "color": "mds-color-content-default",
+                                                    "fontFamily": "Neue Helvetica for Zara",
+                                                    "fontSize": 10,
+                                                    "fontWeight": 300,
+                                                    "fontStyle": "Light",
+                                                    "textAlign": "start",
+                                                    "letterSpacing": 0.08,
+                                                    "lineHeight": 1.6
+                                                },
+                                                "textContent": "{{name}}"
+                                            }
+                                        ],
+                                        "spacing": 4
+                                    }
+                                ],
+                                "spacing": 12,
+                                "action": {
+                                    "type": "navigate"
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "spacing": 20
+            },
+            "thumbnail": "https://static.zara.net/assets/public/01d4/c96f/9e6c4713b886/0b0399d5c96e/9bc7f6542670c3706826ab417b4ed5c1-thumbnail/9bc7f6542670c3706826ab417b4ed5c1-thumbnail.jpg?ts=1754305945224",
+            "metadata": {
+                "createdBy": "jorgesmar",
+                "createdAt": "2025-07-28T16:11:21.300Z",
+                "updatedBy": "jorgesmar",
+                "updatedAt": "2025-08-04T11:12:37.755Z"
+            }
+        }
+    ],
+    "dataSources": {
+        "carousel": {
+            "type": "category",
+            "data": [
+                {
+                    "id": "2596192",
+                    "name": "1½ - 6 YEARS",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "type": "image",
+                            "assetId": "974dd314281146f78d87c9b12895b883",
+                            "timestamp": "2025-08-18T13:22:09.693Z",
+                            "url": "https://static.zara.net/assets/public/974d/d314/281146f78d87/c9b12895b883/06917710104102-a11/06917710104102-a11.jpg?ts=1755523329693",
+                            "formats": [],
+                            "allowedScreens": [],
+                            "metaUrl": "https://static.zara.net/assets/public/974d/d314/281146f78d87/c9b12895b883/meta.json?ts=1755523329698",
+                            "styles": {
+                                "kind": "other",
+                                "scaleType": "fit",
+                                "margined": false
+                            },
+                            "dimensions": {
+                                "width": 2048,
+                                "height": 3073
+                            }
+                        }
+                    },
+                    "redirectionScreenName": "grid",
+                    "seo": {}
+                },
+                {
+                    "id": "2596191",
+                    "name": "6-14 YEARS",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "type": "image",
+                            "assetId": "b0c34b9f040b45b9958b530d226108e5",
+                            "timestamp": "2025-08-21T08:50:51.476Z",
+                            "url": "https://static.zara.net/assets/public/b0c3/4b9f/040b45b9958b/530d226108e5/06917710104102-a12/06917710104102-a12.jpg?ts=1755766251476",
+                            "formats": [],
+                            "allowedScreens": [],
+                            "metaUrl": "https://static.zara.net/assets/public/b0c3/4b9f/040b45b9958b/530d226108e5/meta.json?ts=1755766251483",
+                            "styles": {
+                                "kind": "other",
+                                "scaleType": "fit",
+                                "margined": false
+                            },
+                            "dimensions": {
+                                "width": 2048,
+                                "height": 3072
+                            }
+                        }
+                    },
+                    "redirectionScreenName": "grid",
+                    "seo": {}
+                },
+                {
+                    "id": "2596193",
+                    "name": "1½ - 6 YEARS",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "type": "image",
+                            "assetId": "3e758305d89e46f6b566b6a987c63987",
+                            "timestamp": "2025-08-13T16:12:45.822Z",
+                            "url": "https://static.zara.net/assets/public/3e75/8305/d89e46f6b566/b6a987c63987/06917710104102-a13/06917710104102-a13.jpg?ts=1755101565822",
+                            "formats": [],
+                            "allowedScreens": [],
+                            "metaUrl": "https://static.zara.net/assets/public/3e75/8305/d89e46f6b566/b6a987c63987/meta.json?ts=1755101565827",
+                            "styles": {
+                                "kind": "other",
+                                "scaleType": "fit",
+                                "margined": false
+                            },
+                            "dimensions": {
+                                "width": 2048,
+                                "height": 3073
+                            }
+                        }
+                    },
+                    "redirectionScreenName": "grid",
+                    "seo": {}
+                },
+                {
+                    "id": "2597157",
+                    "name": "6 - 14 YEARS",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "type": "image",
+                            "assetId": "509a1e1f8ba94590959dfa934227da71",
+                            "timestamp": "2025-08-13T16:12:45.289Z",
+                            "url": "https://static.zara.net/assets/public/509a/1e1f/8ba94590959d/fa934227da71/06917710104102-a14/06917710104102-a14.jpg?ts=1755101565289",
+                            "formats": [],
+                            "allowedScreens": [],
+                            "metaUrl": "https://static.zara.net/assets/public/509a/1e1f/8ba94590959d/fa934227da71/meta.json?ts=1755101565293",
+                            "styles": {
+                                "kind": "other",
+                                "scaleType": "fit",
+                                "margined": false
+                            },
+                            "dimensions": {
+                                "width": 2048,
+                                "height": 3073
+                            }
+                        }
+                    },
+                    "redirectionScreenName": "grid",
+                    "seo": {}
+                },
+                {
+                    "id": "2596194",
+                    "name": "0 - 18 MONTHS",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "type": "image",
+                            "assetId": "76562b6b31174943b964ae0146ea0905",
+                            "timestamp": "2025-08-13T16:12:45.856Z",
+                            "url": "https://static.zara.net/assets/public/7656/2b6b/31174943b964/ae0146ea0905/06917710104102-a15/06917710104102-a15.jpg?ts=1755101565856",
+                            "formats": [],
+                            "allowedScreens": [],
+                            "metaUrl": "https://static.zara.net/assets/public/7656/2b6b/31174943b964/ae0146ea0905/meta.json?ts=1755101565860",
+                            "styles": {
+                                "kind": "other",
+                                "scaleType": "fit",
+                                "margined": false
+                            },
+                            "dimensions": {
+                                "width": 2048,
+                                "height": 3073
+                            }
+                        }
+                    },
+                    "redirectionScreenName": "grid",
+                    "seo": {}
+                }
+            ]
+        }
+    }
+}

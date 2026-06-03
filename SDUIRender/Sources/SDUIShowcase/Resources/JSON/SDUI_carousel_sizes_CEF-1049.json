@@ -1,0 +1,211 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": null,
+      "dimensions": {
+        "width": null,
+        "height": null
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "center"
+        },
+        "direction": "vertical",
+        "hasScroll": false,
+        "spacing": 8,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "styles": {
+              "backgroundColor": "#ff8000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "free",
+            "visibleItems": 2.5,
+            "offsetStart": 25,
+            "offsetEnd": 25,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "11",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with long text to test autoheight in carousel",
+                "positioning": {
+                  "widthPercentage": 50,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "12",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "13",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "14",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "15",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "componentType": "carousel",
+            "styles": {
+              "backgroundColor": "#ff8000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "free",
+            "visibleItems": 2.5,
+            "offsetStart": 25,
+            "offsetEnd": 25,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "21",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "22",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "23",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "24",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content short",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "25",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with long text to test autoheight in carousel",
+                "positioning": {
+                  "widthPercentage": 50,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

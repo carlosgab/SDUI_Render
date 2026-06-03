@@ -1,0 +1,199 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100
+                },
+                "direction": "vertical",
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "Text content with widthPercentage = 50",
+                        "positioning": {
+                            "widthPercentage": 50,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "Text content with widthPercentage = 100",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF00F0"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "spacing": 10,
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "4",
+                                "textContent": "Text content with verticalAlignment = start",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "start",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#AAAFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "6",
+                                "textContent": "Text content with verticalAlignment = center",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#00AFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "8",
+                                "textContent": "Text content with verticalAlignment = end",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "end",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF00F0"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "spacing": 10,
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "10",
+                                "textContent": "Text content with horizontalAlignment = start",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "start",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "11",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#AAAFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "12",
+                                "textContent": "Text content with horizontalAlignment = center",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "start",
+                                    "horizontalAlignment": "center"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#00AFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "14",
+                                "textContent": "Text content with horizontalAlignment = end",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "start",
+                                    "horizontalAlignment": "end"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

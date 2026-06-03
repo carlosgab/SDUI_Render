@@ -1,0 +1,94 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "Text content with *italic*",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "Text content with _italic_",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "3",
+                        "textContent": "Text content with **bold**",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "4",
+                        "textContent": "Text content with __bold__",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "5",
+                        "textContent": "Text content with [Link](http://www.zara.com)",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "6",
+                        "textContent": "Text content with \n\n [Link](http://www.zara.com)",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

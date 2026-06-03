@@ -1,0 +1,963 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "hasScroll": true,
+        "children": [
+          {
+            "id": "carousel_1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 30,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center",
+              "paddingStart": 30
+            },
+            "scrollMode": "snap",
+            "itemSpacing": 16,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "item_1",
+                "componentType": "text",
+                "textContent": "Item 1",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_2",
+                "componentType": "text",
+                "textContent": "Item 2",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_3",
+                "componentType": "text",
+                "textContent": "Item 3",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_4",
+                "componentType": "text",
+                "textContent": "Item 4",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_5",
+                "componentType": "text",
+                "textContent": "Item 5",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_6",
+                "componentType": "text",
+                "textContent": "Item 6",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_7",
+                "componentType": "text",
+                "textContent": "Item 7",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_8",
+                "componentType": "text",
+                "textContent": "Item 8",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_9",
+                "componentType": "text",
+                "textContent": "Item 9",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_10",
+                "componentType": "text",
+                "textContent": "Item 10",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_11",
+                "componentType": "text",
+                "textContent": "Item 11",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_12",
+                "componentType": "text",
+                "textContent": "Item 12",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_13",
+                "componentType": "text",
+                "textContent": "Item 13",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_14",
+                "componentType": "text",
+                "textContent": "Item 14",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_15",
+                "componentType": "text",
+                "textContent": "Item 15",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_16",
+                "componentType": "text",
+                "textContent": "Item 16",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_17",
+                "componentType": "text",
+                "textContent": "Item 17",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_18",
+                "componentType": "text",
+                "textContent": "Item 18",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_19",
+                "componentType": "text",
+                "textContent": "Item 19",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_20",
+                "componentType": "text",
+                "textContent": "Item 20",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_21",
+                "componentType": "text",
+                "textContent": "Item 21",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_22",
+                "componentType": "text",
+                "textContent": "Item 22",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_23",
+                "componentType": "text",
+                "textContent": "Item 23",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_24",
+                "componentType": "text",
+                "textContent": "Item 24",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_25",
+                "componentType": "text",
+                "textContent": "Item 25",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_26",
+                "componentType": "text",
+                "textContent": "Item 26",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_27",
+                "componentType": "text",
+                "textContent": "Item 27",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_28",
+                "componentType": "text",
+                "textContent": "Item 28",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_29",
+                "componentType": "text",
+                "textContent": "Item 29",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item_30",
+                "componentType": "text",
+                "textContent": "Item 30",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "carousel_2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 30,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "snap",
+            "itemSpacing": 16,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "item2_1",
+                "componentType": "text",
+                "textContent": "Item 1",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_2",
+                "componentType": "text",
+                "textContent": "Item 2",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_3",
+                "componentType": "text",
+                "textContent": "Item 3",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_4",
+                "componentType": "text",
+                "textContent": "Item 4",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_5",
+                "componentType": "text",
+                "textContent": "Item 5",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_6",
+                "componentType": "text",
+                "textContent": "Item 6",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_7",
+                "componentType": "text",
+                "textContent": "Item 7",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_8",
+                "componentType": "text",
+                "textContent": "Item 8",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_9",
+                "componentType": "text",
+                "textContent": "Item 9",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_10",
+                "componentType": "text",
+                "textContent": "Item 10",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_11",
+                "componentType": "text",
+                "textContent": "Item 11",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_12",
+                "componentType": "text",
+                "textContent": "Item 12",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_13",
+                "componentType": "text",
+                "textContent": "Item 13",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_14",
+                "componentType": "text",
+                "textContent": "Item 14",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_15",
+                "componentType": "text",
+                "textContent": "Item 15",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_16",
+                "componentType": "text",
+                "textContent": "Item 16",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_17",
+                "componentType": "text",
+                "textContent": "Item 17",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_18",
+                "componentType": "text",
+                "textContent": "Item 18",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_19",
+                "componentType": "text",
+                "textContent": "Item 19",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_20",
+                "componentType": "text",
+                "textContent": "Item 20",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_21",
+                "componentType": "text",
+                "textContent": "Item 21",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_22",
+                "componentType": "text",
+                "textContent": "Item 22",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_23",
+                "componentType": "text",
+                "textContent": "Item 23",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_24",
+                "componentType": "text",
+                "textContent": "Item 24",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_25",
+                "componentType": "text",
+                "textContent": "Item 25",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_26",
+                "componentType": "text",
+                "textContent": "Item 26",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_27",
+                "componentType": "text",
+                "textContent": "Item 27",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_28",
+                "componentType": "text",
+                "textContent": "Item 28",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_29",
+                "componentType": "text",
+                "textContent": "Item 29",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "item2_30",
+                "componentType": "text",
+                "textContent": "Item 30",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#FAAFFF"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

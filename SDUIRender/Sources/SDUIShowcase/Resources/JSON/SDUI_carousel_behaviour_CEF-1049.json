@@ -1,0 +1,974 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "hasScroll": false,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": -3,
+            "children": [
+              {
+                "componentType": "media",
+                "id": "demo_image11",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image12",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image13",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image14",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 50,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 0,
+            "children": [
+              {
+                "componentType": "media",
+                "id": "demo_image21",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image22",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image23",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image24",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "31",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the first item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image32",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image33",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "id": "34",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the last item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "scrollMode": "free",
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "41",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the first item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image42",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image43",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "id": "44",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the last item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "scrollMode": "snap",
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "51",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the first item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image52",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "componentType": "media",
+                "id": "demo_image53",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "media": null,
+                  "styles": {
+                    "backgroundColor": "transparent"
+                  },
+                  "direction": "vertical",
+                  "spacing": 0
+                },
+                "storeFrontMedia": {
+                  "asset": {
+                    "type": "image",
+                    "assetId": "456",
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                    "styles": {
+                      "kind": "full",
+                      "scaleType": "fill",
+                      "margined": false
+                    }
+                  },
+                  "fragments": [
+                    {
+                      "type": "image",
+                      "assetId": "456",
+                      "timestamp": "2020-01-01T00:00:00Z",
+                      "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                      "styles": {
+                        "kind": "full",
+                        "scaleType": "fill",
+                        "margined": false
+                      }
+                    }
+                  ]
+                },
+                "children": []
+              },
+              {
+                "id": "54",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the last item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+    "id": "e7aaa2f7-703f-4e74-8f97-33d1b51a98fe-billCycle-08-01-2026-new-collection-V2026-0_e7aaa2f7-703f-4e74-8f97-33d1b51a98fe-billCycle-08-01-2026-new-collection-V2026-0",
+    "responsiveLayouts": [
+        {
+            "id": "8f63e39fd68c3350963579cec20dd068",
+            "name": "sdui-test-kids-winter-breeze-web",
+            "minWidth": 4167,
+            "dimensions": {
+                "width": 4167,
+                "height": 14417
+            },
+            "componentTree": {
+                "id": "446:1403664_web",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 3.576,
+                    "paddingBottom": 3.576,
+                    "paddingStart": 4.344,
+                    "paddingEnd": 4.344
+                },
+                "styles": {
+                    "backgroundColor": "#ffffff"
+                },
+                "children": [
+                    {
+                        "id": "446:1404145_frame-1",
+                        "name": "Frame 1",
+                        "positioning": {
+                            "widthPercentage": 100
+                        },
+                        "componentType": "media",
+                        "storeFrontMedia": {
+                            "asset": {
+                                "type": "vector",
+                                "styles": {
+                                    "kind": "full",
+                                    "margined": false,
+                                    "scaleType": "fit"
+                                },
+                                "url": "https://static.zara.net/assets/public/5ebd/48f8/05984ef6a2d4/bf2e54057bcb/ecbaa1531bd9284d565754314385a640.svg?ts=1767787945714",
+                                "dimensions": {
+                                    "width": 3805,
+                                    "height": 4505
+                                },
+                                "assetId": "48058fee7e6549eeadb098332993d134",
+                                "timestamp": "2026-01-07T12:12:25Z"
+                            }
+                        }
+                    },
+                    {
+                        "id": "446:1404148_frame-4",
+                        "name": "fg-column",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0.631,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "styles": {},
+                        "children": [
+                            {
+                                "id": "446:1404148_frame-4_0_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1403682_20251030-mu-zara-kids-baby-various-arteixo-251031000000410007-1",
+                                        "name": "20251030_MU_ZARA_Kids_BABY_Various_Arteixo_251031000000410007 1",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "componentType": "media",
+                                        "storeFrontMedia": {
+                                            "asset": {
+                                                "type": "image",
+                                                "styles": {
+                                                    "kind": "full",
+                                                    "margined": false,
+                                                    "scaleType": "fit"
+                                                },
+                                                "url": "https://static.zara.net/assets/public/a7b4/0a9a/24db4414bf08/77a223b6a137/a49075754e44681e5cb8635e0b88e192/a49075754e44681e5cb8635e0b88e192.png?ts=1765458931147&w={width}",
+                                                "dimensions": {
+                                                    "width": 3805,
+                                                    "height": 3043
+                                                },
+                                                "assetId": "a7b40a9a24db4414bf0877a223b6a137",
+                                                "timestamp": "2025-12-11T13:15:31Z",
+                                                "metaUrl": "https://static.zara.net/assets/public/a7b4/0a9a/24db4414bf08/77a223b6a137/meta.json?ts=1765458967376",
+                                                "metaPath": "/assets/public/a7b4/0a9a/24db4414bf08/77a223b6a137/meta.json?ts=1765458967376"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "446:1404148_frame-4_1_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 1.603,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0.237,
+                                    "paddingEnd": 0.184
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1404147_frame-3",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "446:1404147_frame-3_0_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 12.22,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 0,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403683_-001-",
+                                                        "name": "(__001)",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/4ceb90b11b981493bce2a596769a94c5.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 463,
+                                                                    "height": 150
+                                                                },
+                                                                "assetId": "077d437f895a4889ac71d573181d7b77",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "446:1404147_frame-3_1_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 87.78,
+                                                    "paddingTop": 0.623,
+                                                    "paddingBottom": 0.486,
+                                                    "paddingStart": 37.688,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403684_embroidered-bodysuit-with-fagoting-faux-shearling-toggle-jacket",
+                                                        "name": "EMBROIDERED BODYSUIT WITH FAGOTING // FAUX SHEARLING TOGGLE JACKET",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/dd928f8ec46d31a53412ff54be6912b4.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 1898,
+                                                                    "height": 108
+                                                                },
+                                                                "assetId": "89b18ee5d85a450fabc092cd962a7afa",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "446:1404150_frame-6",
+                        "name": "fg-column",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 99.685,
+                            "paddingTop": 0,
+                            "paddingBottom": 1.314,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "styles": {},
+                        "children": [
+                            {
+                                "id": "446:1404150_frame-6_0_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1404150_frame-6_0_fg-row_0_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 47.571,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "446:1403679_20251030-mu-zara-kids-baby-various-arteixo-251031000000280002-1",
+                                                "name": "20251030_MU_ZARA_Kids_BABY_Various_Arteixo_251031000000280002 1",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "componentType": "media",
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "margined": false,
+                                                            "scaleType": "fit"
+                                                        },
+                                                        "url": "https://static.zara.net/assets/public/7f38/03b8/114249f78e84/6c5b598fba1b/f1b213e21125ec4ea2c0d829140476c6/f1b213e21125ec4ea2c0d829140476c6.jpg?ts=1765458932124&w={width}",
+                                                        "dimensions": {
+                                                            "width": 1804,
+                                                            "height": 2256
+                                                        },
+                                                        "assetId": "7f3803b8114249f78e846c5b598fba1b",
+                                                        "timestamp": "2025-12-11T13:15:32Z",
+                                                        "metaUrl": "https://static.zara.net/assets/public/7f38/03b8/114249f78e84/6c5b598fba1b/meta.json?ts=1765458943977",
+                                                        "metaPath": "/assets/public/7f38/03b8/114249f78e84/6c5b598fba1b/meta.json?ts=1765458943977"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "446:1404150_frame-6_0_fg-row_1_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 52.429,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0.012,
+                                            "paddingStart": 4.868,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "446:1403680_20251030-mu-zara-kids-baby-various-arteixo-251031000000420032-1",
+                                                "name": "20251030_MU_ZARA_Kids_BABY_Various_Arteixo_251031000000420032 1",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "componentType": "media",
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "margined": false,
+                                                            "scaleType": "fit"
+                                                        },
+                                                        "url": "https://static.zara.net/assets/public/accb/1847/d0e5487f8095/42e2072e815e/a3bb2f796ee939d4dc63d2b099e9949e/a3bb2f796ee939d4dc63d2b099e9949e.jpg?ts=1765458933099&w={width}",
+                                                        "dimensions": {
+                                                            "width": 1804,
+                                                            "height": 2256
+                                                        },
+                                                        "assetId": "accb1847d0e5487f809542e2072e815e",
+                                                        "timestamp": "2025-12-11T13:15:33Z",
+                                                        "metaUrl": "https://static.zara.net/assets/public/accb/1847/d0e5487f8095/42e2072e815e/meta.json?ts=1765458947127",
+                                                        "metaPath": "/assets/public/accb/1847/d0e5487f8095/42e2072e815e/meta.json?ts=1765458947127"
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "446:1404150_frame-6_1_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 2.241,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0.079
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1404149_frame-5",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0.897,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "446:1404149_frame-5_0_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 50.079,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 0,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403686_embroidered-bodysuit-with-fagoting-faux-shearling-toggle-jacket",
+                                                        "name": "EMBROIDERED BODYSUIT WITH FAGOTING // FAUX SHEARLING TOGGLE JACKET",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/5fefcb70ec35f18971717d32064e614b.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 1898,
+                                                                    "height": 108
+                                                                },
+                                                                "assetId": "2247bd55226c4bf485ebfc0c52134e3a",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "446:1404149_frame-5_1_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 49.921,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 37.705,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403685_-002-",
+                                                        "name": "(__002)",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/aa5bb374dc3397274d6ea55e0874c3e3.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 463,
+                                                                    "height": 108
+                                                                },
+                                                                "assetId": "465399d0876243568a27593df9ff4390",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "446:1404152_frame-8",
+                        "name": "fg-column",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 99.79,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "styles": {},
+                        "children": [
+                            {
+                                "id": "446:1404152_frame-8_0_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1403681_20251030-mu-zara-kids-baby-various-arteixo-251031000000280034",
+                                        "name": "20251030_MU_ZARA_Kids_BABY_Various_Arteixo_251031000000280034",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "componentType": "media",
+                                        "storeFrontMedia": {
+                                            "asset": {
+                                                "type": "image",
+                                                "styles": {
+                                                    "kind": "full",
+                                                    "margined": false,
+                                                    "scaleType": "fit"
+                                                },
+                                                "url": "https://static.zara.net/assets/public/bb69/3703/b5384556bdef/6d83c5b32d1b/f2af0c6814e2caafb17e94fbeb316370/f2af0c6814e2caafb17e94fbeb316370.jpg?ts=1765458934181&w={width}",
+                                                "dimensions": {
+                                                    "width": 3797,
+                                                    "height": 3037
+                                                },
+                                                "assetId": "bb693703b5384556bdef6d83c5b32d1b",
+                                                "timestamp": "2025-12-11T13:15:34Z",
+                                                "metaUrl": "https://static.zara.net/assets/public/bb69/3703/b5384556bdef/6d83c5b32d1b/meta.json?ts=1765458945027",
+                                                "metaPath": "/assets/public/bb69/3703/b5384556bdef/6d83c5b32d1b/meta.json?ts=1765458945027"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "446:1404152_frame-8_1_fg-row",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 2.242,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0.211,
+                                    "paddingEnd": 0.158
+                                },
+                                "children": [
+                                    {
+                                        "id": "446:1404151_frame-7",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "446:1404151_frame-7_0_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 12.239,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 0,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403688_-003-",
+                                                        "name": "(__003)",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/77dedc254e402c9505f976a9706ddd32.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 463,
+                                                                    "height": 168
+                                                                },
+                                                                "assetId": "ee4ebd26c1e541e5bf34c8d0e65519b1",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "446:1404151_frame-7_1_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 87.761,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 37.589,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "446:1403687_embroidered-bodysuit-with-fagoting-faux-shearling-toggle-jacket",
+                                                        "name": "EMBROIDERED BODYSUIT WITH FAGOTING // FAUX SHEARLING TOGGLE JACKET",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/bfa2/48af/22a14470b13c/3654eb49c4f5/97038bd8517dece0172038d31de7504a.svg?ts=1767868304576",
+                                                                "dimensions": {
+                                                                    "width": 1898,
+                                                                    "height": 168
+                                                                },
+                                                                "assetId": "8922fbed95f24093b8303a8524d688ad",
+                                                                "timestamp": "2026-01-08T10:31:44Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "spacing": 171,
+                "space": {
+                    "value": 4.1
+                }
+            }
+        }
+    ],
+    "dataSources": {}
+}

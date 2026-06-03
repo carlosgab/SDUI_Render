@@ -1,0 +1,87 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "1",
+                "componentType": "container",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "direction": "vertical",
+                "children": [
+                    {
+                        "id": "1",
+                        "componentType": "customComponentIdentifier",
+                        "positioning": {
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "action": {
+                            "type": "navigteToProduct",
+                            "payload": {
+                                "productId": "12345"
+                            }
+                        },
+                        "title": "Este es mi texto chulo, registrado desde la app"
+                    },
+                    {
+                        "id": "2",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF0000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "action": {
+                            "type": "navigateToProduct",
+                            "payload": {
+                                "productId": "12345"
+                            }
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#550000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "action": {
+                            "type": "addToCart"
+                        },
+                        "dataSourceKey": "productA"
+                    }
+                ]
+            }
+
+        }
+    ],
+    "dataSources": {
+        "productA": {
+            "type": "product",
+            "data": [
+                {
+                    "id": ["12345"],
+                    "name": "Zapatillas blancas"
+                }
+            ]
+        }
+    }
+}

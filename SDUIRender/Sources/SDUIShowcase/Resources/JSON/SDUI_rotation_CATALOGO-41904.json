@@ -1,0 +1,811 @@
+{
+    "id": "rotation-advanced-test-schema",
+    "responsiveLayouts": [
+        {
+            "id": "rotation-advanced-layout",
+            "name": "rotation-advanced-test-desktop",
+            "minWidth": 0,
+            "dimensions": {
+                "width": 1200,
+                "height": 1800
+            },
+            "componentTree": {
+                "id": "root-container",
+                "name": "root",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": null,
+                    "paddingPercentage": {
+                        "top": 2,
+                        "bottom": 2,
+                        "start": 2,
+                        "end": 2
+                    }
+                },
+                "styles": {
+                    "backgroundColor": "#f0f0f0"
+                },
+                "spacing": 24,
+                "children": [
+                    {
+                        "id": "main-title",
+                        "name": "main-title",
+                        "componentType": "text",
+                        "positioning": {
+                            "widthPercentage": 100
+                        },
+                        "styles": {
+                            "fontSize": 28,
+                            "fontWeight": 700,
+                            "textAlign": "center",
+                            "color": "#1a1a1a"
+                        },
+                        "textContent": "Rotation Advanced Test - Imágenes, Textos y Medias"
+                    },
+                    {
+                        "id": "images-section",
+                        "name": "images-section",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingPercentage": {
+                                "top": 2,
+                                "bottom": 2,
+                                "start": 2,
+                                "end": 2
+                            }
+                        },
+                        "styles": {
+                            "backgroundColor": "#ffffff",
+                            "border": {
+                                "global": {
+                                    "radius": 12
+                                }
+                            }
+                        },
+                        "spacing": 16,
+                        "children": [
+                            {
+                                "id": "images-title",
+                                "name": "images-title",
+                                "componentType": "text",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "styles": {
+                                    "fontSize": 20,
+                                    "fontWeight": 600,
+                                    "textAlign": "center",
+                                    "color": "#2c3e50"
+                                },
+                                "textContent": "📷 Imágenes con Rotación"
+                            },
+                            {
+                                "id": "images-row",
+                                "name": "images-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "horizontalAlignment": "center"
+                                },
+                                "spacing": 32,
+                                "children": [
+                                    {
+                                        "id": "image-no-rotation",
+                                        "name": "image-no-rotation",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "heightPercentage": 100
+                                        },
+                                        "spacing": 8,
+                                        "children": [
+                                            {
+                                                "id": "image-no-rotation-media",
+                                                "name": "image-media",
+                                                "componentType": "media",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": 80
+                                                },
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "assetId": "img-001",
+                                                        "timestamp": "2025-01-22T00:00:00Z",
+                                                        "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w=400",
+                                                        "dimensions": {
+                                                            "width": 400,
+                                                            "height": 600
+                                                        },
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "scaleType": "fit",
+                                                            "margined": false
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": "image-no-rotation-label",
+                                                "name": "label",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "fontSize": 12,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#666666"
+                                                },
+                                                "textContent": "0° (sin rotación)"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "image-rotation-15",
+                                        "name": "image-rotation-15",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "rotation": 15
+                                        },
+                                        "spacing": 8,
+                                        "children": [
+                                            {
+                                                "id": "image-rotation-15-media",
+                                                "name": "image-media",
+                                                "componentType": "media",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": 80
+                                                },
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "assetId": "img-002",
+                                                        "timestamp": "2025-01-22T00:00:00Z",
+                                                        "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w=400",
+                                                        "dimensions": {
+                                                            "width": 400,
+                                                            "height": 600
+                                                        },
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "scaleType": "fit",
+                                                            "margined": false
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": "image-rotation-15-label",
+                                                "name": "label",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "fontSize": 12,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#666666"
+                                                },
+                                                "textContent": "15° rotación"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "image-rotation-neg-15",
+                                        "name": "image-rotation-neg-15",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "aspectRatio": 1,
+                                            "rotation": -15
+                                        },
+                                        "spacing": 8,
+                                        "children": [
+                                            {
+                                                "id": "image-rotation-neg-15-media",
+                                                "name": "image-media",
+                                                "componentType": "media",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": 80
+                                                },
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "assetId": "img-003",
+                                                        "timestamp": "2025-01-22T00:00:00Z",
+                                                        "url": "https://static.zara.net/assets/public/4894/1c0a/4b78411c84c8/87ed0fc65938/image-landscape-default-fill-727a6739-cd4d-49a6-858a-181f8454ef44-default_0/image-landscape-default-fill-727a6739-cd4d-49a6-858a-181f8454ef44-default_0.jpg?ts=1736755109152&w=400",
+                                                        "dimensions": {
+                                                            "width": 400,
+                                                            "height": 226
+                                                        },
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "scaleType": "fit",
+                                                            "margined": false
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": "image-rotation-neg-15-label",
+                                                "name": "label",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "fontSize": 12,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#666666"
+                                                },
+                                                "textContent": "-15° rotación"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "image-rotation-45-padding",
+                                        "name": "image-rotation-45-padding",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "aspectRatio": 1,
+                                            "rotation": 45,
+                                            "paddingPercentage": {
+                                                "top": 5,
+                                                "bottom": 5,
+                                                "start": 5,
+                                                "end": 5
+                                            }
+                                        },
+                                        "styles": {
+                                            "backgroundColor": "#e8f4f8",
+                                            "border": {
+                                                "global": {
+                                                    "radius": 8
+                                                }
+                                            }
+                                        },
+                                        "spacing": 8,
+                                        "children": [
+                                            {
+                                                "id": "image-rotation-45-media",
+                                                "name": "image-media",
+                                                "componentType": "media",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": 80
+                                                },
+                                                "storeFrontMedia": {
+                                                    "asset": {
+                                                        "type": "image",
+                                                        "assetId": "img-004",
+                                                        "timestamp": "2025-01-22T00:00:00Z",
+                                                        "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w=400",
+                                                        "dimensions": {
+                                                            "width": 400,
+                                                            "height": 600
+                                                        },
+                                                        "styles": {
+                                                            "kind": "full",
+                                                            "scaleType": "fit",
+                                                            "margined": false
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "id": "image-rotation-45-label",
+                                                "name": "label",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "fontSize": 12,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#666666"
+                                                },
+                                                "textContent": "45° + padding"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "texts-section",
+                        "name": "texts-section",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingPercentage": {
+                                "top": 2,
+                                "bottom": 2,
+                                "start": 2,
+                                "end": 2
+                            }
+                        },
+                        "styles": {
+                            "backgroundColor": "#ffffff",
+                            "border": {
+                                "global": {
+                                    "radius": 12
+                                }
+                            }
+                        },
+                        "spacing": 16,
+                        "children": [
+                            {
+                                "id": "texts-title",
+                                "name": "texts-title",
+                                "componentType": "text",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "styles": {
+                                    "fontSize": 20,
+                                    "fontWeight": 600,
+                                    "textAlign": "center",
+                                    "color": "#2c3e50"
+                                },
+                                "textContent": "📝 Textos con Rotación"
+                            },
+                            {
+                                "id": "texts-row",
+                                "name": "texts-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center"
+                                },
+                                "spacing": 48,
+                                "children": [
+                                    {
+                                        "id": "text-no-rotation",
+                                        "name": "text-no-rotation",
+                                        "componentType": "text",
+                                        "positioning": {
+                                            "widthPercentage": 15
+                                        },
+                                        "styles": {
+                                            "fontSize": 16,
+                                            "fontWeight": 600,
+                                            "textAlign": "center",
+                                            "color": "#3498db"
+                                        },
+                                        "textContent": "Texto Normal 0°"
+                                    },
+                                    {
+                                        "id": "text-rotation-10",
+                                        "name": "text-rotation-10",
+                                        "componentType": "text",
+                                        "positioning": {
+                                            "widthPercentage": 15,
+                                            "rotation": 10
+                                        },
+                                        "styles": {
+                                            "fontSize": 16,
+                                            "fontWeight": 600,
+                                            "textAlign": "center",
+                                            "color": "#e74c3c"
+                                        },
+                                        "textContent": "Texto Diagonal 10°"
+                                    },
+                                    {
+                                        "id": "text-rotation-neg-5",
+                                        "name": "text-rotation-neg-5",
+                                        "componentType": "text",
+                                        "positioning": {
+                                            "widthPercentage": 15,
+                                            "rotation": -5
+                                        },
+                                        "styles": {
+                                            "fontSize": 16,
+                                            "fontWeight": 600,
+                                            "textAlign": "center",
+                                            "color": "#2ecc71"
+                                        },
+                                        "textContent": "Estilo Informal -5°"
+                                    },
+                                    {
+                                        "id": "text-rotation-90",
+                                        "name": "text-rotation-90",
+                                        "componentType": "text",
+                                        "positioning": {
+                                            "widthPercentage": 10,
+                                            "rotation": 90
+                                        },
+                                        "styles": {
+                                            "fontSize": 14,
+                                            "fontWeight": 600,
+                                            "textAlign": "center",
+                                            "color": "#9b59b6"
+                                        },
+                                        "textContent": "Vertical 90°"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "containers-padding-section",
+                        "name": "containers-padding-section",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingPercentage": {
+                                "top": 2,
+                                "bottom": 2,
+                                "start": 2,
+                                "end": 2
+                            }
+                        },
+                        "styles": {
+                            "backgroundColor": "#ffffff",
+                            "border": {
+                                "global": {
+                                    "radius": 12
+                                }
+                            }
+                        },
+                        "spacing": 16,
+                        "children": [
+                            {
+                                "id": "containers-title",
+                                "name": "containers-title",
+                                "componentType": "text",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "styles": {
+                                    "fontSize": 20,
+                                    "fontWeight": 600,
+                                    "textAlign": "center",
+                                    "color": "#2c3e50"
+                                },
+                                "textContent": "📦 Contenedores con Padding + Rotación"
+                            },
+                            {
+                                "id": "containers-row",
+                                "name": "containers-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center"
+                                },
+                                "spacing": 48,
+                                "children": [
+                                    {
+                                        "id": "container-padding-large-rotation",
+                                        "name": "container-padding-large",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "aspectRatio": 1,
+                                            "rotation": 30,
+                                            "paddingPercentage": {
+                                                "top": 8,
+                                                "bottom": 8,
+                                                "start": 8,
+                                                "end": 8
+                                            }
+                                        },
+                                        "styles": {
+                                            "backgroundColor": "#3498db",
+                                            "border": {
+                                                "global": {
+                                                    "radius": 12
+                                                }
+                                            }
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "container-padding-large-text",
+                                                "name": "text",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "verticalAlignment": "center",
+                                                    "horizontalAlignment": "center"
+                                                },
+                                                "styles": {
+                                                    "fontSize": 12,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#ffffff"
+                                                },
+                                                "textContent": "Padding 8% + Rotación 30°"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "container-padding-asymmetric",
+                                        "name": "container-padding-asymmetric",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 20,
+                                            "aspectRatio": 1,
+                                            "rotation": -20,
+                                            "paddingPercentage": {
+                                                "top": 3,
+                                                "bottom": 10,
+                                                "start": 5,
+                                                "end": 15
+                                            }
+                                        },
+                                        "styles": {
+                                            "backgroundColor": "#e74c3c",
+                                            "border": {
+                                                "global": {
+                                                    "radius": 12
+                                                }
+                                            }
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "container-padding-asymmetric-text",
+                                                "name": "text",
+                                                "componentType": "text",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "verticalAlignment": "center",
+                                                    "horizontalAlignment": "center"
+                                                },
+                                                "styles": {
+                                                    "fontSize": 11,
+                                                    "fontWeight": 500,
+                                                    "textAlign": "center",
+                                                    "color": "#ffffff"
+                                                },
+                                                "textContent": "Padding asimétrico + Rotación -20°"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "container-nested-rotation",
+                                        "name": "container-nested",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 25,
+                                            "aspectRatio": 1,
+                                            "rotation": 15,
+                                            "paddingPercentage": {
+                                                "top": 5,
+                                                "bottom": 5,
+                                                "start": 5,
+                                                "end": 5
+                                            }
+                                        },
+                                        "styles": {
+                                            "backgroundColor": "#2ecc71",
+                                            "border": {
+                                                "global": {
+                                                    "radius": 12
+                                                }
+                                            }
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "container-nested-inner",
+                                                "name": "inner-container",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "backgroundColor": "#27ae60",
+                                                    "border": {
+                                                        "global": {
+                                                            "radius": 8
+                                                        }
+                                                    }
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "container-nested-inner-text",
+                                                        "name": "text",
+                                                        "componentType": "text",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "verticalAlignment": "center",
+                                                            "horizontalAlignment": "center"
+                                                        },
+                                                        "styles": {
+                                                            "fontSize": 11,
+                                                            "fontWeight": 500,
+                                                            "textAlign": "center",
+                                                            "color": "#ffffff"
+                                                        },
+                                                        "textContent": "Padre rotado 15° - Hijo sin rotación"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "media-rotation-section",
+                        "name": "media-rotation-section",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingPercentage": {
+                                "top": 2,
+                                "bottom": 2,
+                                "start": 2,
+                                "end": 2
+                            }
+                        },
+                        "styles": {
+                            "backgroundColor": "#ffffff",
+                            "border": {
+                                "global": {
+                                    "radius": 12
+                                }
+                            }
+                        },
+                        "spacing": 16,
+                        "children": [
+                            {
+                                "id": "media-title",
+                                "name": "media-title",
+                                "componentType": "text",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "styles": {
+                                    "fontSize": 20,
+                                    "fontWeight": 600,
+                                    "textAlign": "center",
+                                    "color": "#2c3e50"
+                                },
+                                "textContent": "🎬 Media (Imagen/Video) con Rotación directa"
+                            },
+                            {
+                                "id": "media-row",
+                                "name": "media-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center"
+                                },
+                                "spacing": 48,
+                                "children": [
+                                    {
+                                        "id": "media-image-rotation-45",
+                                        "name": "media-image-rotation",
+                                        "componentType": "media",
+                                        "positioning": {
+                                            "widthPercentage": 25,
+                                            "aspectRatio": 1,
+                                            "rotation": 45
+                                        },
+                                        "storeFrontMedia": {
+                                            "asset": {
+                                                "type": "image",
+                                                "assetId": "media-img-001",
+                                                "timestamp": "2025-01-22T00:00:00Z",
+                                                "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w=400",
+                                                "dimensions": {
+                                                    "width": 400,
+                                                    "height": 600
+                                                },
+                                                "styles": {
+                                                    "kind": "full",
+                                                    "scaleType": "fit",
+                                                    "margined": false
+                                                },
+                                                "accesibilityConfiguration": {
+                                                    "altText": "Imagen rotada 45 grados"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "media-image-rotation-5",
+                                        "name": "media-image-rotation-light",
+                                        "componentType": "media",
+                                        "positioning": {
+                                            "widthPercentage": 25,
+                                            "aspectRatio": 1,
+                                            "rotation": 5,
+                                            "paddingPercentage": {
+                                                "top": 3,
+                                                "bottom": 3,
+                                                "start": 3,
+                                                "end": 3
+                                            }
+                                        },
+                                        "storeFrontMedia": {
+                                            "asset": {
+                                                "type": "image",
+                                                "assetId": "media-img-002",
+                                                "timestamp": "2025-01-22T00:00:00Z",
+                                                "url": "https://static.zara.net/assets/public/4894/1c0a/4b78411c84c8/87ed0fc65938/image-landscape-default-fill-727a6739-cd4d-49a6-858a-181f8454ef44-default_0/image-landscape-default-fill-727a6739-cd4d-49a6-858a-181f8454ef44-default_0.jpg?ts=1736755109152&w=400",
+                                                "dimensions": {
+                                                    "width": 400,
+                                                    "height": 226
+                                                },
+                                                "styles": {
+                                                    "kind": "full",
+                                                    "scaleType": "fit",
+                                                    "margined": false
+                                                },
+                                                "accesibilityConfiguration": {
+                                                    "altText": "Imagen con rotación leve 5 grados y padding"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "media-image-rotation-neg-30",
+                                        "name": "media-image-rotation-negative",
+                                        "componentType": "media",
+                                        "positioning": {
+                                            "widthPercentage": 25,
+                                            "aspectRatio": 1.5,
+                                            "rotation": -30
+                                        },
+                                        "storeFrontMedia": {
+                                            "asset": {
+                                                "type": "image",
+                                                "assetId": "media-img-003",
+                                                "timestamp": "2025-01-22T00:00:00Z",
+                                                "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w=400",
+                                                "dimensions": {
+                                                    "width": 400,
+                                                    "height": 600
+                                                },
+                                                "styles": {
+                                                    "kind": "full",
+                                                    "scaleType": "fit",
+                                                    "margined": false
+                                                },
+                                                "accesibilityConfiguration": {
+                                                    "altText": "Imagen rotada -30 grados"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

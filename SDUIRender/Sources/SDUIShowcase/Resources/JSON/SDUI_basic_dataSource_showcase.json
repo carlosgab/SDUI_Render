@@ -1,0 +1,142 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "1",
+        "componentType": "container",
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start",
+          "paddingStart": 5,
+          "paddingEnd": 5,
+          "paddingTop": 10
+        },
+        "direction": "vertical",
+        "spacing": 20,
+        "children": [
+            {
+            "componentType": "text",
+            "id": "2",
+            "textContent": "Category: tag: {{tag}}",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "dataSourceKey": "categoryA",
+            "action": {
+                "type": "navigate"
+            }
+          },
+            {
+                "id": "4155:357_look8",
+                "name": "Look8",
+                "positioning": {
+                    "widthPercentage": 100
+                },
+                "componentType": "media",
+                "dataSourceKey": "productA"
+            },
+          {
+            "componentType": "text",
+            "id": "9",
+            "textContent": "Product 1: name: {{name}}, price: {{currentPrice}}",
+            "positioning": {
+              "widthPercentage": 100,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "navigateToProduct",
+              "payload": {
+                "productId": "12345"
+              }
+            },
+            "dataSourceKey": "productA"
+          },
+          {
+            "componentType": "text",
+            "id": "10",
+            "textContent": "Product 2: name: {{name}}, price: {{originalPrice}}",
+            "positioning": {
+              "widthPercentage": 100,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "navigateToCategory",
+              "payload": {
+                "categoryId": "11111"
+              }
+            },
+            "dataSourceKey": "productB"
+          }
+        ]
+      }
+    }
+  ],
+  "dataSources": {
+      "productA": {
+          "type": "product",
+          "data": [
+              {
+                  "id": ["12343"],
+                  "reference": "C05039596250000-V2022",
+                  "name": "Zapatos de aguja",
+                  "currentPrice": "99.99€",
+                  "originalPrice": "40€",
+                  "storeFrontMedia": {
+                      "asset": {
+                        "type": "image",
+                        "styles": {
+                          "kind": "full",
+                          "margined": false,
+                          "scaleType": "fit"
+                        },
+                        "url": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/e27e4a10ecff8420a52555e125f4e702/e27e4a10ecff8420a52555e125f4e702.jpg?ts=1751528671157",
+                        "dimensions": {
+                          "width": 144,
+                          "height": 178
+                        },
+                        "assetId": "96b5635f5dfe404f83f1b5ca6583a2e2",
+                        "timestamp": "2025-07-03T07:44:31Z",
+                        "metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157",
+                        "metaPath": "/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157"
+                      }
+                    }
+              }
+          ]
+      },
+      "productB": {
+          "type": "product",
+          "data": [
+              {
+                  "id": ["12344"],
+                  "reference": "C05139596250000-V2022",
+                  "name": "Zapatillas de casa",
+                  "currentPrice": "99.99€",
+                  "originalPrice": "50€"
+              }
+          ]
+      },
+      "categoryA": {
+          "type": "category",
+          "data": [
+              {
+                  "id": "456789",
+                  "name": "Cazadora vaquera",
+                  "tag": "Etiqueta",
+                  "redirectionScreenName": "categoryA"
+              }
+          ]
+      }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "id": "e7319389c29491179a557e7d48f8170b",
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "1",
+        "componentType": "container",
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start",
+          "paddingStart": 5,
+          "paddingEnd": 5,
+          "paddingTop": 10
+        },
+        "direction": "vertical",
+        "spacing": 20,
+        "children": [
+          {
+            "id": "4",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "dataSourceKey": "carouselCategories",
+            "scrollMode": "free",
+            "visibleItems": 2.2,
+            "itemSpacing": 15,
+            "children": [
+              {
+                "id": "0_fg-column_052ce8f9-9ae3-49f2-a416-7d53c3b5a5f3",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0
+                },
+                "children": [
+                  {
+                    "id": "8020:1394_carousel-item-01",
+                    "name": "fg-column",
+                    "componentType": "container",
+                    "direction": "vertical",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "styles": {
+
+                    },
+                    "children": [
+                      {
+                        "id": "0_fg-row_1a577f40-c872-4326-b03c-c5585bffc100",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                          "widthPercentage": 100,
+                          "heightPercentage": null,
+                          "paddingTop": 0,
+                          "paddingBottom": 0,
+                          "paddingStart": 0,
+                          "paddingEnd": 0
+                        },
+                        "children": [
+                          {
+                            "id": "8020:1395_image",
+                            "name": "Image",
+                            "positioning": {
+                              "widthPercentage": 100,
+                              "heightPercentage": null
+                            },
+                            "componentType": "media",
+                            "storeFrontMedia": null
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1_fg-row_792ca014-ed2e-4d06-bfc4-9b63481cd264",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                          "widthPercentage": 100,
+                          "heightPercentage": null,
+                          "paddingTop": 8.333,
+                          "paddingBottom": 0,
+                          "paddingStart": 0,
+                          "paddingEnd": 0
+                        },
+                        "children": [
+                          {
+                            "id": "8020:1398_name",
+                            "name": "fg-row",
+                            "componentType": "container",
+                            "direction": "horizontal",
+                            "positioning": {
+                              "widthPercentage": 100,
+                              "heightPercentage": null,
+                              "paddingTop": 0,
+                              "paddingBottom": 0,
+                              "paddingStart": 0,
+                              "paddingEnd": 0
+                            },
+                            "styles": {
+
+                            },
+                            "children": [
+                              {
+                                "id": "8020:1399_name",
+                                "name": "Name",
+                                "positioning": {
+                                  "widthPercentage": 100,
+                                  "heightPercentage": null
+                                },
+                                "componentType": "text",
+                                "styles": {
+                                  "color": "#000000",
+                                  "fontFamily": "Neue Helvetica for Zara",
+                                  "fontSize": 11,
+                                  "fontSizeRelative": 0.0763888888888889,
+                                  "fontWeight": 300,
+                                  "fontStyle": "Light",
+                                  "textAlign": "start",
+                                  "letterSpacing": 0.073,
+                                  "lineHeight": 1.455
+                                },
+                                "textContent": "{{name}}"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dataSources": {
+    "carouselCategories": {
+      "type": "product",
+      "data": [
+        {
+          "id": [
+            "12343"
+          ],
+          "reference": "C05039596250000-V2022",
+          "name": "FESTIVAL AURA",
+          "storeFrontMedia": {
+            "asset": {
+              "type": "image",
+              "styles": {
+                "kind": "full",
+                "margined": false,
+                "scaleType": "fit"
+              },
+              "url": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/e27e4a10ecff8420a52555e125f4e702/e27e4a10ecff8420a52555e125f4e702.jpg?ts=1751528671157",
+              "dimensions": {
+                "width": 144,
+                "height": 178
+              },
+              "assetId": "96b5635f5dfe404f83f1b5ca6583a2e2",
+              "timestamp": "2025-07-03T07:44:31Z",
+              "metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157",
+              "metaPath": "/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157"
+            }
+          }
+        },
+        {
+          "id": [
+            "12344"
+          ],
+          "reference": "C05139596250000-V2022",
+          "name": "FESTIVAL COLLECTION",
+          "storeFrontMedia": {
+            "asset": {
+              "type": "image",
+              "styles": {
+                "kind": "full",
+                "margined": false,
+                "scaleType": "fit"
+              },
+              "url": "https://preint-static-zaracom.inditex.com/assets/public/e9d9/bf5e/589340428ff0/0e02eb1df468/6343dc0be7932e6b72f0d055197b676e/6343dc0be7932e6b72f0d055197b676e.jpg?ts=1751528671880",
+              "dimensions": {
+                "width": 144,
+                "height": 178
+              },
+              "assetId": "96b5635f5dfe404f83f1b5ca6583a2e2",
+              "timestamp": "2025-07-03T07:44:31Z",
+              "metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157",
+              "metaPath": "/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157"
+            }
+          }
+        },
+        {
+          "id": [
+            "12345"
+          ],
+          "reference": "C05239596250000-V2022",
+          "name": "THE WHITE EDIT",
+          "storeFrontMedia": {
+            "asset": {
+              "type": "image",
+              "styles": {
+                "kind": "full",
+                "margined": false,
+                "scaleType": "fit"
+              },
+              "url": "https://preint-static-zaracom.inditex.com/assets/public/a0c4/c356/508647eb937b/998f3477b9e2/d1d11b880a5fa4970c59d460783720a0/d1d11b880a5fa4970c59d460783720a0.jpg?ts=1751528674030",
+              "dimensions": {
+                "width": 144,
+                "height": 178
+              },
+              "assetId": "96b5635f5dfe404f83f1b5ca6583a2e2",
+              "timestamp": "2025-07-03T07:44:31Z",
+              "metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157",
+              "metaPath": "/assets/public/96b5/635f/5dfe404f83f1/b5ca6583a2e2/meta.json?ts=1751528671157"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
+

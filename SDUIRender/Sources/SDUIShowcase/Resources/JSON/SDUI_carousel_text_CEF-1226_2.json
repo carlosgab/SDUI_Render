@@ -1,0 +1,121 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": null,
+      "dimensions": {
+        "width": null,
+        "height": null
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#ffff00"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "center",
+          "horizontalAlignment": "center"
+        },
+        "direction": "vertical",
+        "spacing": 8,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "styles": {
+              "backgroundColor": "#ff8000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "free",
+            "visibleItems": 2.5,
+            "offsetStart": 25,
+            "offsetEnd": 25,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "2",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 50
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "3",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "4",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "5",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "6",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "7",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto corto"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "root",
+        "componentType": "container",
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start",
+          "paddingStart": 5,
+          "paddingEnd": 5,
+          "paddingTop": 10
+        },
+        "hasScroll": true,
+        "direction": "vertical",
+        "spacing": 20,
+        "children": [
+          {
+            "id": "carousel1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "styles": {
+              "backgroundColor": "#dbdbdbef"
+            },
+            "dataSourceKey": "productA",
+            "scrollMode": "free",
+            "visibleItems": 4,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "carousel1-container1",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel1-container1-text11",
+                    "componentType": "text",
+                    "textContent": "{{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "carousel2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "styles": {
+              "backgroundColor": "#dbdbdbef"
+            },
+            "dataSourceKey": "productA",
+            "scrollMode": "free",
+            "visibleItems": 4,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "carousel2-container1",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel2-container1-text1",
+                    "componentType": "text",
+                    "textContent": "{{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  },
+                  {
+                    "id": "carousel2-container1-text2",
+                    "componentType": "text",
+                    "dataSourceKey": "productB",
+                    "textContent": "{{name}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "carousel3",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "styles": {
+              "backgroundColor": "#dbdbdbef"
+            },
+            "dataSourceKey": "productA",
+            "scrollMode": "free",
+            "visibleItems": 5,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "carousel3-container1",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel3-container1-text1",
+                    "componentType": "text",
+                    "textContent": "{{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "carousel3-container2",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel3-container2-text1",
+                    "componentType": "text",
+                    "textContent": "Este hijo no se debería mostrar {{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 18
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "carousel4",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "styles": {
+              "backgroundColor": "#dbdbdbef"
+            },
+            "dataSourceKey": "categoryC",
+            "scrollMode": "free",
+            "visibleItems": 5,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "carousel4-container1",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel4-container1-text1",
+                    "componentType": "text",
+                    "textContent": "{{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "carousel5",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "styles": {
+              "backgroundColor": "#dbdbdbef"
+            },
+            "dataSourceKey": "productEmpty",
+            "scrollMode": "free",
+            "visibleItems": 5,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "carousel5-container1",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center",
+                  "paddingTop": 10,
+                  "paddingBottom": 10
+                },
+                "children": [
+                  {
+                    "id": "carousel5-container1-text1",
+                    "componentType": "text",
+                    "textContent": "{{name}}, {{currentPrice}}",
+                    "styles": {
+                      "fontSize": 14
+                    },
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "verticalAlignment": "center",
+                      "horizontalAlignment": "center",
+                      "paddingTop": 8
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dataSources": {
+    "productA": {
+      "type": "product",
+      "data": [
+        {
+          "name": "Zapatos de aguja",
+          "id": ["product1"],
+          "currentPrice": "99.99€",
+          "originalPrice": "40€"
+        },
+        {
+          "name": "Zapatillas de casa",
+          "id": ["product2"],
+          "currentPrice": "98.99€",
+          "originalPrice": "50€"
+        },
+        {
+          "name": "Zapatos de deporte",
+          "id": ["product3"],
+          "currentPrice": "97.99€",
+          "originalPrice": "80€"
+        },
+        {
+          "name": "Zapatos de bebé",
+          "id": ["product4"],
+          "currentPrice": "96.99€",
+          "originalPrice": "20€"
+        }
+      ]
+    },
+    "productB": {
+      "type": "product",
+      "data": [
+        {
+          "name": "Zapatos sobreescritos",
+          "id": ["product5"],
+          "currentPrice": "95.99€",
+          "originalPrice": "20€"
+        }
+      ]
+    },
+    "productEmpty": {
+      "type": "product",
+      "id": "12343",
+      "data": []
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "hasScroll": false,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "11",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the first item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "12",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the second item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "13",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the third item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "14",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "This is the last item. ScrollMode default (free)",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "scrollMode": "free",
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "21",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the first item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "22",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the second item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "23",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the third item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "24",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF00FF"
+                },
+                "textContent": "This is the last item. ScrollMode = free",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "scrollMode": "snap",
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "id": "31",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the first item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "32",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the second item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "33",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the third item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "34",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FFFF00"
+                },
+                "textContent": "This is the last item. ScrollMode = snap",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

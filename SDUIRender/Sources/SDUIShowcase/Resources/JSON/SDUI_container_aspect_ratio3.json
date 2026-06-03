@@ -1,0 +1,387 @@
+{
+  "id": "7a22e9391b921399603a0c588b1ba606",
+  "responsiveLayouts": [
+    {
+      "id": "29610e4c93b45845c31522aeec92eb3e",
+      "name": "sdui-jorge-page-1-033",
+      "minWidth": 1866,
+      "dimensions": {
+        "width": 1866,
+        "height": 2996
+      },
+      "componentTree": {
+        "id": "0:11_033",
+        "name": "fg-column",
+        "componentType": "container",
+        "direction": "vertical",
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": null,
+          "aspectRatio": 0.6228,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0
+        },
+        "styles": {},
+        "children": [
+          {
+            "id": "0:11_033_0_fg-row",
+            "name": "fg-row",
+            "componentType": "container",
+            "direction": "horizontal",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "aspectRatio": 1.3915,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0
+            },
+            "children": [
+              {
+                "id": "0:11_033_0_fg-row_0_fg-column",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 47.856,
+                  "heightPercentage": null,
+                  "aspectRatio": 0.6659,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0
+                },
+                "children": [
+                  {
+                    "id": "0:12_frame-1",
+                    "name": "fg-column",
+                    "componentType": "container",
+                    "direction": "vertical",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "aspectRatio": 0.6659,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "styles": {},
+                    "children": [
+                      {
+                        "id": "0:13_rectangle-1",
+                        "name": "Rectangle 1",
+                        "positioning": {
+                          "widthPercentage": 100,
+                          "heightPercentage": null,
+                          "aspectRatio": 0.6659
+                        },
+                        "componentType": "media",
+                        "storeFrontMedia": {
+                          "asset": {
+                            "type": "image",
+                            "styles": {
+                              "kind": "full",
+                              "margined": false,
+                              "scaleType": "fit"
+                            },
+                            "url": "https://static.zara.net/assets/public/c65b/db04/694b4428a1a0/3f9dbbee3e41/c706262336ae0a7c7479ca9513a50789/c706262336ae0a7c7479ca9513a50789.jpg?ts=1761046587636&w={width}",
+                            "dimensions": {
+                              "width": 893,
+                              "height": 1341
+                            },
+                            "assetId": "c65bdb04694b4428a1a03f9dbbee3e41",
+                            "timestamp": "2025-10-21T11:36:27Z",
+                            "metaUrl": "https://static.zara.net/assets/public/c65b/db04/694b4428a1a0/3f9dbbee3e41/meta.json?ts=1761046604252",
+                            "metaPath": "/assets/public/c65b/db04/694b4428a1a0/3f9dbbee3e41/meta.json?ts=1761046604252"
+                          }
+                        }
+                      }
+                    ],
+                    "dataSourceKey": "frame-1",
+                    "action": {
+                      "type": "navigate"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0:11_033_0_fg-row_1_fg-column",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 52.144,
+                  "heightPercentage": null,
+                  "aspectRatio": 0.7256,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 4.287,
+                  "paddingEnd": 0
+                },
+                "children": [
+                  {
+                    "id": "0:14_frame-2",
+                    "name": "fg-column",
+                    "componentType": "container",
+                    "direction": "vertical",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "aspectRatio": 0.6659,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "styles": {},
+                    "children": [
+                      {
+                        "id": "0:15_rectangle-2",
+                        "name": "Rectangle 2",
+                        "positioning": {
+                          "widthPercentage": 100,
+                          "heightPercentage": null,
+                          "aspectRatio": 0.6659
+                        },
+                        "componentType": "media",
+                        "storeFrontMedia": {
+                          "asset": {
+                            "type": "image",
+                            "styles": {
+                              "kind": "full",
+                              "margined": false,
+                              "scaleType": "fit"
+                            },
+                            "url": "https://static.zara.net/assets/public/34f0/e2a2/3dd543248d23/bbf24dc39414/795211774000d99d872618fece523117/795211774000d99d872618fece523117.jpg?ts=1761046589501&w={width}",
+                            "dimensions": {
+                              "width": 893,
+                              "height": 1341
+                            },
+                            "assetId": "34f0e2a23dd543248d23bbf24dc39414",
+                            "timestamp": "2025-10-21T11:36:29Z",
+                            "metaUrl": "https://static.zara.net/assets/public/34f0/e2a2/3dd543248d23/bbf24dc39414/meta.json?ts=1761046604629",
+                            "metaPath": "/assets/public/34f0/e2a2/3dd543248d23/bbf24dc39414/meta.json?ts=1761046604629"
+                          }
+                        }
+                      }
+                    ],
+                    "dataSourceKey": "frame-2",
+                    "action": {
+                      "type": "navigate"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0:11_033_1_fg-row",
+            "name": "fg-row",
+            "componentType": "container",
+            "direction": "horizontal",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "aspectRatio": 6.4567,
+              "paddingTop": 1.286,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0
+            },
+            "children": [
+              {
+                "id": "0:18_frame-3",
+                "name": "fg-row",
+                "componentType": "container",
+                "direction": "horizontal",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": null,
+                  "aspectRatio": 7.0415,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0
+                },
+                "styles": {},
+                "children": [
+                  {
+                    "id": "0:19_suede-denim-",
+                    "name": "Suede & denim!",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "aspectRatio": 7.0415
+                    },
+                    "componentType": "media",
+                    "storeFrontMedia": {
+                      "asset": {
+                        "type": "vector",
+                        "styles": {
+                          "kind": "full",
+                          "margined": false,
+                          "scaleType": "fit"
+                        },
+                        "url": "https://static.zara.net/assets/public/140b/1ce7/412c4dcf850b/31d969751af5/077bd894618724871e43339e20022dfd.svg?ts=1762188316847",
+                        "dimensions": {
+                          "width": 1866,
+                          "height": 265
+                        },
+                        "config": {
+                          "isDarkModeCompatible": true
+                        },
+                        "assetId": "fa6d886602ba499e8a993cc1b1410118",
+                        "timestamp": "2025-11-03T16:45:16Z"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0:11_033_2_fg-row",
+            "name": "fg-row",
+            "componentType": "container",
+            "direction": "horizontal",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "aspectRatio": 1.366,
+              "paddingTop": 1.34,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 8.092
+            },
+            "children": [
+              {
+                "id": "0:11_033_2_fg-row_0_fg-column",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 52.07,
+                  "heightPercentage": null,
+                  "aspectRatio": 0.6659,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0
+                },
+                "children": [
+                  {
+                    "id": "0:16_frame-4",
+                    "name": "fg-column",
+                    "componentType": "container",
+                    "direction": "vertical",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "aspectRatio": 0.6659,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "styles": {},
+                    "children": [
+                      {
+                        "id": "0:17_rectangle-3",
+                        "name": "Rectangle 3",
+                        "positioning": {
+                          "widthPercentage": 100,
+                          "heightPercentage": null,
+                          "aspectRatio": 0.6659
+                        },
+                        "componentType": "media",
+                        "storeFrontMedia": {
+                          "asset": {
+                            "type": "image",
+                            "styles": {
+                              "kind": "full",
+                              "margined": false,
+                              "scaleType": "fit"
+                            },
+                            "url": "https://static.zara.net/assets/public/1408/267e/77424ddeb9d4/1ae3e7aa70a2/73947af5b5785da6e979a26ed4fc3ec7/73947af5b5785da6e979a26ed4fc3ec7.jpg?ts=1761046590517&w={width}",
+                            "dimensions": {
+                              "width": 893,
+                              "height": 1341
+                            },
+                            "assetId": "1408267e77424ddeb9d41ae3e7aa70a2",
+                            "timestamp": "2025-10-21T11:36:30Z",
+                            "metaUrl": "https://static.zara.net/assets/public/1408/267e/77424ddeb9d4/1ae3e7aa70a2/meta.json?ts=1761046603101",
+                            "metaPath": "/assets/public/1408/267e/77424ddeb9d4/1ae3e7aa70a2/meta.json?ts=1761046603101"
+                          }
+                        }
+                      }
+                    ],
+                    "dataSourceKey": "frame-4",
+                    "action": {
+                      "type": "navigate"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0:11_033_2_fg-row_1_fg-column",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                  "widthPercentage": 47.93,
+                  "heightPercentage": null,
+                  "aspectRatio": 0.613,
+                  "paddingTop": 26.356,
+                  "paddingBottom": 42.216,
+                  "paddingStart": 9.854,
+                  "paddingEnd": 0
+                },
+                "children": [
+                  {
+                    "id": "0:20_trf-collection-spring-summer-2025",
+                    "name": "TRF collection spring summer 2025",
+                    "positioning": {
+                      "widthPercentage": 100,
+                      "heightPercentage": null,
+                      "aspectRatio": 3.9576
+                    },
+                    "componentType": "media",
+                    "storeFrontMedia": {
+                      "asset": {
+                        "type": "vector",
+                        "styles": {
+                          "kind": "full",
+                          "margined": false,
+                          "scaleType": "fit"
+                        },
+                        "url": "https://static.zara.net/assets/public/140b/1ce7/412c4dcf850b/31d969751af5/f497acb9fc288eb219b7d9f7dde8c7c0.svg?ts=1762188316847",
+                        "dimensions": {
+                          "width": 653,
+                          "height": 165
+                        },
+                        "config": {
+                          "isDarkModeCompatible": true
+                        },
+                        "assetId": "817a540a33f64e8a83d53ac5ee159fd2",
+                        "timestamp": "2025-11-03T16:45:16Z"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dataSources": {
+    "frame-1": {},
+    "frame-2": {},
+    "frame-4": {}
+  }
+}

@@ -1,0 +1,305 @@
+{
+    "responsiveLayouts": [
+        {
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": null,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0,
+                    "verticalAlignment": "center",
+                    "horizontalAlignment": "center"
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "id": "HeaderText",
+                        "componentType": "text",
+                        "textContent": "Disable VPN to see the images",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        }
+                    },
+                    {
+                        "id": "1",
+                        "componentType": "carousel",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "scrollMode": "snap",
+                        "visibleItems": 2.5,
+                        "offsetStart": 25,
+                        "offsetEnd": 25,
+                        "itemSpacing": 20,
+                        "children": [
+                            {
+                                "id": "2",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "vertical",
+                                "spacing": 20,
+                                "children": [
+                                    {
+                                        "id": "3",
+                                        "componentType": "image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "image": {
+                                            "path": "https://picsum.photos/id/823/200/300.jpg",
+                                            "objectFit": "contain",
+                                            "objectPosition": "center",
+                                            "dimensions": {
+                                                "width": 200,
+                                                "height": 300
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "4",
+                                        "componentType": "text",
+                                        "textContent": "Discover new horizons",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "verticalAlignment": "center",
+                                            "horizontalAlignment": "start"
+                                        }
+                                    }
+                                ],
+                                "action": {
+                                    "type": "navigateToProduct",
+                                    "payload": {
+                                        "productId": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "5",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "vertical",
+                                "spacing": 20,
+                                "children": [
+                                    {
+                                        "id": "6",
+                                        "componentType": "image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "image": {
+                                            "path": "https://picsum.photos/id/836/200/300.jpg",
+                                            "objectFit": "contain",
+                                            "objectPosition": "center",
+                                            "dimensions": {
+                                                "width": 200,
+                                                "height": 300
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "7",
+                                        "componentType": "text",
+                                        "textContent": "Play your style",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "verticalAlignment": "center",
+                                            "horizontalAlignment": "start"
+                                        }
+                                    }
+                                ],
+                                "action": {
+                                    "type": "navigateToProduct",
+                                    "payload": {
+                                        "productId": "2"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "8",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "vertical",
+                                "spacing": 20,
+                                "children": [
+                                    {
+                                        "id": "9",
+                                        "componentType": "image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "image": {
+                                            "path": "https://picsum.photos/id/1059/200/300.jpg",
+                                            "objectFit": "contain",
+                                            "objectPosition": "center",
+                                            "dimensions": {
+                                                "width": 200,
+                                                "height": 300
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "10",
+                                        "componentType": "text",
+                                        "textContent": "Match your outfit with everything you want, right from the Zara app with the new Studio feature",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "verticalAlignment": "center",
+                                            "horizontalAlignment": "start"
+                                        }
+                                    }
+                                ],
+                                "action": {
+                                    "type": "navigateToProduct",
+                                    "payload": {
+                                        "productId": "3"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "11",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "vertical",
+                                "spacing": 20,
+                                "children": [
+                                    {
+                                        "id": "12",
+                                        "componentType": "image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "image": {
+                                            "path": "https://picsum.photos/id/794/200/300.jpg",
+                                            "objectFit": "contain",
+                                            "objectPosition": "center",
+                                            "dimensions": {
+                                                "width": 200,
+                                                "height": 300
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "13",
+                                        "componentType": "text",
+                                        "textContent": "Breath the air",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "verticalAlignment": "center",
+                                            "horizontalAlignment": "start"
+                                        }
+                                    }
+                                ],
+                                "action": {
+                                    "type": "navigateToProduct",
+                                    "payload": {
+                                        "productId": "4"
+                                    }
+                                }
+                            },
+                            {
+                                "id": "14",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "vertical",
+                                "spacing": 20,
+                                "children": [
+                                    {
+                                        "id": "15",
+                                        "componentType": "image",
+                                        "positioning": {
+                                            "widthPercentage": 100
+                                        },
+                                        "image": {
+                                            "path": "https://picsum.photos/id/883/200/300.jpg",
+                                            "objectFit": "contain",
+                                            "objectPosition": "center",
+                                            "dimensions": {
+                                                "width": 200,
+                                                "height": 300
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "id": "16",
+                                        "componentType": "text",
+                                        "textContent": "Connect with nature",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "verticalAlignment": "center",
+                                            "horizontalAlignment": "start"
+                                        }
+                                    }
+                                ],
+                                "action": {
+                                    "type": "navigateToProduct",
+                                    "payload": {
+                                        "productId": "5"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

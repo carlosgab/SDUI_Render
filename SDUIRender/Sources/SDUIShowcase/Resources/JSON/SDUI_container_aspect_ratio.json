@@ -1,0 +1,171 @@
+{
+	"id": "6ae992a51769f1ccd53f80a2aec58ab0",
+	"responsiveLayouts": [
+		{
+			"id": "e0e39107ba1f7f1a7b8a19d1fc6d6c14",
+			"name": "pruebas-prueba-creativity-template-desktop",
+			"minWidth": 361,
+			"dimensions": {
+				"width": 361,
+				"height": 162
+			},
+			"componentTree": {
+				"id": "310:214_desktop",
+				"name": "fg-row",
+				"componentType": "container",
+				"direction": "horizontal",
+				"positioning": {
+					"widthPercentage": 100,
+					"heightPercentage": null,
+					"paddingTop": 0,
+					"paddingBottom": 0,
+					"paddingStart": 0,
+					"paddingEnd": 0
+				},
+				"styles": {},
+				"children": [
+					{
+						"id": "310:215_categories",
+						"name": "fg-row",
+						"componentType": "container",
+						"direction": "horizontal",
+						"positioning": {
+							"widthPercentage": 100,
+							"heightPercentage": null,
+							"aspectRatio": 1.8,
+							"paddingTop": 0,
+							"paddingBottom": 0,
+							"paddingStart": 0,
+							"paddingEnd": 8.864
+						},
+						"styles": {
+							"backgroundColor": "#eeeeee"
+						},
+						"children": [
+							{
+								"id": "310:216_frame-1",
+								"name": "fg-column",
+								"componentType": "container",
+								"direction": "vertical",
+								"positioning": {
+									"widthPercentage": null,
+									"heightPercentage": 100,
+									"paddingTop": 0,
+									"paddingBottom": 0,
+									"paddingStart": 0,
+									"paddingEnd": 0
+								},
+								"styles": {},
+								"children": [
+									{
+										"id": "593:113_image",
+										"name": "Image",
+										"positioning": {
+											"widthPercentage": null,
+											"heightPercentage": 80
+										},
+										"componentType": "media",
+										"storeFrontMedia": null
+									},
+									{
+										"id": "I310:218;2053:1151_label",
+										"name": "label",
+										"positioning": {
+											"widthPercentage": null,
+											"heightPercentage": 20,
+											"paddingTop": 0,
+											"paddingBottom": 0,
+											"paddingStart": 0,
+											"paddingEnd": 0
+										},
+										"componentType": "text",
+										"styles": {
+											"color": "mds-color-content-default",
+											"fontFamily": "Neue Helvetica for Zara",
+											"fontSize": 10,
+											"fontWeight": 300,
+											"fontStyle": "Light",
+											"textAlign": "start",
+											"letterSpacing": 0.08,
+											"lineHeight": 1.6
+										},
+										"textContent": "{{name}}"
+									}
+								],
+								"spacing": 12,
+								"action": {
+									"type": "navigate"
+								}
+							}
+						],
+						"spacing": 8,
+						"dataSourceKey": "categories"
+					}
+				]
+			},
+			"thumbnail": "https://preint-static-zaracom.inditex.com/assets/public/554d/898b/5f7f49d184e5/8adb598950f7/e0e39107ba1f7f1a7b8a19d1fc6d6c14-thumbnail/e0e39107ba1f7f1a7b8a19d1fc6d6c14-thumbnail.jpg?ts=1756740801339",
+			"metadata": {
+				"createdBy": "jorgesmar",
+				"createdAt": "2025-09-01T14:37:59.591Z",
+				"updatedBy": "jorgesmar",
+				"updatedAt": "2025-09-01T15:33:38.857Z"
+			}
+		}
+	],
+	"dataSources": {
+		"categories": {
+			"type": "category",
+			"data": [
+				{
+					"id": "2596192",
+					"name": "1½ - 6 YEARS",
+					"storeFrontMedia": {
+						"asset": {
+							"type": "image",
+							"assetId": "f78f0fa76f5a44e1821f7e0d29288edf",
+							"timestamp": "2025-08-25T14:30:46.107Z",
+							"url": "https://static.zara.net/assets/public/f78f/0fa7/6f5a44e1821f/7e0d29288edf/06917710104102-a16/06917710104102-a16.jpg?ts=1756132246107",
+							"formats": [],
+							"allowedScreens": [],
+							"metaUrl": "https://static.zara.net/assets/public/f78f/0fa7/6f5a44e1821f/7e0d29288edf/meta.json?ts=1756132246135",
+							"styles": {
+								"kind": "other",
+								"scaleType": "fit",
+								"margined": false
+							},
+							"dimensions": {
+								"width": 2048,
+								"height": 3073
+							}
+						}
+					},
+					"seo": {}
+				},
+				{
+					"id": "2596193",
+					"name": "1½ - 6 YEARS",
+					"storeFrontMedia": {
+						"asset": {
+							"type": "image",
+							"styles": {
+								"kind": "full",
+								"margined": false,
+								"scaleType": "fit"
+							},
+							"url": "https://preint-static-zaracom.inditex.com/assets/public/ae0d/544d/85e341feaa6e/1279f0e2a358/b6b18462b5904cfadacb2005afa1c408/b6b18462b5904cfadacb2005afa1c408.jpg?ts=1752141484838",
+							"dimensions": {
+								"width": 217,
+								"height": 144
+							},
+							"assetId": "ae0d544d85e341feaa6e1279f0e2a358",
+							"timestamp": "2025-07-10T09:58:04Z",
+							"metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/ae0d/544d/85e341feaa6e/1279f0e2a358/meta.json?ts=1752141484838",
+							"metaPath": "/assets/public/ae0d/544d/85e341feaa6e/1279f0e2a358/meta.json?ts=1752141484838"
+						}
+					},
+					"seo": {}
+				}
+			]
+		}
+	}
+}

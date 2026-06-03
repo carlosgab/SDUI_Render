@@ -1,0 +1,190 @@
+{
+    "id": "4398db4a2d28c9f7c5cc58d45200af57",
+    "responsiveLayouts": [
+        {
+            "id": "c0b703915f7d834ef5f27638bd81e7c2",
+            "name": "cef-carousel-menu-roco-content-04-title-image-streaming-content-streaming",
+            "minWidth": 329,
+            "dimensions": {
+                "width": 329,
+                "height": 170
+            },
+            "componentTree": {
+                "id": "6247:94_content-streaming",
+                "name": "fg-row",
+                "componentType": "container",
+                "direction": "horizontal",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": null,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                },
+                "styles": {},
+                "children": [
+                    {
+                        "id": "6247:95_content",
+                        "name": "fg-column",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "styles": {},
+                        "children": [
+                            {
+                                "id": "1_fg-row_b76dadc0-7091-4fb2-942f-07653ebcc75b",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 6.079,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "children": [
+                                    {
+                                        "id": "6247:97_content",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "heightPercentage": null,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "8036:380_zara-streaming-summer-edit-zara-espan-a",
+                                                "name": "Zara Streaming - Summer Edit ZARA España",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": null
+                                                },
+                                                "componentType": "media",
+                                                "dataSourceKey": "videoStream",
+                                                "storeFrontMedia": null
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1_fg-row_b76dadc0-7091-4fb2-942f-07653ebcc75b",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "paddingTop": 6.079,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "children": [
+                                    {
+                                        "id": "6247:97_content",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "heightPercentage": null,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "8036:380_zara-streaming-summer-edit-zara-espan-a",
+                                                "name": "Zara Streaming - Summer Edit ZARA España",
+                                                "positioning": {
+                                                    "widthPercentage": 100,
+                                                    "heightPercentage": null
+                                                },
+                                                "componentType": "media",
+                                                "dataSourceKey": "videoStream",
+                                                "storeFrontMedia": null
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "thumbnail": "https://preint-static-zaracom.inditex.com/assets/public/cbfd/5cbd/dc5e4f95a654/559051cbfd19/c0b703915f7d834ef5f27638bd81e7c2-thumbnail/c0b703915f7d834ef5f27638bd81e7c2-thumbnail.jpg?ts=1752750132454",
+            "metadata": {
+                "createdBy": "rocoet",
+                "createdAt": "2025-07-07T15:17:35.162Z",
+                "updatedBy": "rocoet",
+                "updatedAt": "2025-07-17T11:02:28.622Z"
+            }
+        }
+    ],
+    "dataSources": {
+        "videoStream": {
+            "type": "category",
+            "data": [
+                {
+                    "id": "1234",
+                    "name": "VideoStreaming",
+                    "storeFrontMedia": {
+                        "asset": {
+                            "config": {
+                                "controls": [
+                                    "AUDIO",
+                                    "PLAYTOGGLE",
+                                    "PROGRESSBAR",
+                                    "FULLSCREEN"
+                                ],
+                                "appearance": {
+                                    "controlsColor": "#ffffff"
+                                },
+                                "behaviour": {
+                                    "avoidAutoPlay": false,
+                                    "hlsVideoUrl": "https://preint-static-zaracom.inditex.com/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/0b9008de71c2bcc01f2ffc451a452610/master.m3u8?ts=1752157632655"
+                                },
+                                "videoFallbackUrl": "https://preint-static-zaracom.inditex.com/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/0b9008de71c2bcc01f2ffc451a452610/video.mp4?ts=1752157632655",
+                                "posterUrl": "https://preint-static-zaracom.inditex.com/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/0b9008de71c2bcc01f2ffc451a452610/poster/poster.jpg?ts=1752157632655"
+                            },
+                            "type": "hls",
+                            "styles": {
+                                "kind": "double-animation",
+                                "margined": false,
+                                "scaleType": "fit"
+                            },
+                            "url": "https://preint-static-zaracom.inditex.com/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/0b9008de71c2bcc01f2ffc451a452610/master.m3u8?ts=1752157632655",
+                            "dimensions": {
+                                "width": 329,
+                                "height": 126
+                            },
+                            "assetId": "ee553371e394410a91e834ce5dbc99be",
+                            "timestamp": "2025-07-10T14:27:12Z",
+                            "metaUrl": "https://preint-static-zaracom.inditex.com/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/meta.json?ts=1752157632655",
+                            "metaPath": "/assets/public/ee55/3371/e394410a91e8/34ce5dbc99be/meta.json?ts=1752157632655"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

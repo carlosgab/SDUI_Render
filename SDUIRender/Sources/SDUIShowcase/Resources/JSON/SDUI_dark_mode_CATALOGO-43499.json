@@ -1,0 +1,74 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#F54927"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "8 sized system font text with blue hex color. ZARA.",
+                        "styles": {
+                            "color": "#275EF5",
+                            "fontSize": 8
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "mds-color-green-500 color with default font and size. ZARA Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                        "styles": {
+                            "color": "mds-color-green-500"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "9",
+                        "textContent": "mds-color-content-default\nThis text should be black in light mode. White in dark mode.\n18 sized NeueHelveticaforZara Bold Text and mds body l typography. ZARA Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                        "styles": {
+                            "color": "mds-color-content-default",
+                            "fontFamily": "NeueHelveticaforZara",
+                            "fontWeight": 600,
+                            "fontSize": 18,
+                            "semantic-typography": "mds-typo-body-l"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
+

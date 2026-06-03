@@ -1,0 +1,177 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "8 sized system font text with red hex color.",
+                        "styles": {
+                            "color": "#FF0A21",
+                            "fontSize": 8
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "*Welcome* _to_ **TextComponent** __preview__ with a green mds color [demo](https://zara.com).\n~~Only~~ ***at*** `Zara.com`",
+                        "styles": {
+                            "color": "mds-color-green-500"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "3",
+                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "styles": {
+                            "textAlign": "start",
+                            "fontSize": 10
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "4",
+                        "textContent": "10 sized text content without maxLines, center aligned. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "styles": {
+                            "textAlign": "center",
+                            "fontSize": 10
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "5",
+                        "textContent": "10 sized text content without maxLines, end aligned. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "styles": {
+                            "textAlign": "end",
+                            "fontSize": 10
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "6",
+                        "textContent": "18 sized NeueHelveticaforZara Bold Text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "styles": {
+                            "fontFamily": "NeueHelveticaforZara",
+                            "fontWeight": 600,
+                            "fontSize": 18
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "7",
+                        "textContent": "18 sized text with mds body l typography. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "styles": {
+                            "semantic-typography": "mds-typo-body-l",
+                            "fontSize": 18
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "8",
+                        "textContent": "18 sized text with system typography. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                        "styles": {
+                            "fontSize": 18
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "9",
+                        "textContent": "18 sized NeueHelveticaforZara Bold Text and mds body l typography. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                        "styles": {
+                            "fontFamily": "NeueHelveticaforZara",
+                            "fontWeight": 600,
+                            "fontSize": 18,
+                            "semantic-typography": "mds-typo-body-l"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "10",
+                        "textContent": "50 sized with mds body l typography. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+                        "styles": {
+                            "fontSize": 50,
+                            "semantic-typography": "mds-typo-body-l"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

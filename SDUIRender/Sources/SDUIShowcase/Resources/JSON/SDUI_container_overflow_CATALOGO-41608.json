@@ -1,0 +1,1869 @@
+{
+    "id": "cbd6c679-55e5-4159-b036-0cfa11d6fb08-midday-propagation-12-01-2026-new-collection-V2026-0_cbd6c679-55e5-4159-b036-0cfa11d6fb08-midday-propagation-12-01-2026-new-collection-V2026-0",
+    "responsiveLayouts": [
+        {
+            "id": "cafb5e310407c31a33d27b6809676b97",
+            "name": "sdui-test-test-autolayouts-desktop",
+            "minWidth": 2560,
+            "dimensions": {
+                "width": 2560,
+                "height": 3774
+            },
+            "componentTree": {
+                "id": "486:816_desktop",
+                "name": "fg-column",
+                "componentType": "container",
+                "direction": "vertical",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 5.977,
+                    "paddingBottom": 7.07,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                },
+                "styles": {
+                    "backgroundColor": "#ffffff"
+                },
+                "children": [
+                    {
+                        "id": "486:816_desktop_0_fg-row",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "children": [
+                            {
+                                "id": "486:817_autolayouts",
+                                "name": "AUTOLAYOUTS",
+                                "positioning": {
+                                    "widthPercentage": 100
+                                },
+                                "componentType": "media",
+                                "storeFrontMedia": {
+                                    "asset": {
+                                        "type": "vector",
+                                        "styles": {
+                                            "kind": "full",
+                                            "margined": false,
+                                            "scaleType": "fit"
+                                        },
+                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/a7efc5e25962b858197722d04df8aa10.svg?ts=1767949640950",
+                                        "dimensions": {
+                                            "width": 2560,
+                                            "height": 24
+                                        },
+                                        "assetId": "e76ad2dd13774ce4a559d5416a2f5490",
+                                        "timestamp": "2026-01-09T09:07:20Z"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "486:816_desktop_1_fg-row",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 4.023,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 72.361
+                        },
+                        "children": [
+                            {
+                                "id": "681:4264_frame-a",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 4.523,
+                                    "paddingEnd": 4.523
+                                },
+                                "styles": {},
+                                "children": [
+                                    {
+                                        "id": "681:4264_frame-a_0_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 24.767,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4265_1",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4266_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0.055,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4266_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.264
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/55a2d09137d73f1d11264f918d7e7919/55a2d09137d73f1d11264f918d7e7919.jpg?ts=1768214061371&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 163,
+                                                                            "height": 239
+                                                                        },
+                                                                        "assetId": "2801999f7a1342ef8b2f21bc52fd3657",
+                                                                        "timestamp": "2026-01-12T10:34:21Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536",
+                                                                        "metaPath": "/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4267_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.347
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/53fe1480acd4781a13e1b5b23a713609.svg?ts=1767949640950",
+                                                                "dimensions": {
+                                                                    "width": 141,
+                                                                    "height": 47
+                                                                },
+                                                                "assetId": "c11219010fe84760b6fa83ad16ce2c31",
+                                                                "timestamp": "2026-01-09T09:07:20Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "1",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4264_frame-a_1_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 25.078,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.311,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4271_2",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4272_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0.055,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4272_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.264
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/55a2d09137d73f1d11264f918d7e7919/55a2d09137d73f1d11264f918d7e7919.jpg?ts=1768214061371&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 163,
+                                                                            "height": 239
+                                                                        },
+                                                                        "assetId": "2801999f7a1342ef8b2f21bc52fd3657",
+                                                                        "timestamp": "2026-01-12T10:34:21Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536",
+                                                                        "metaPath": "/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4273_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.347
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/3457/4096/ca6745af890b/2266a0026f0c/d2f086cfd5b93217a3da6b7727d6ecb9.svg?ts=1768214062893",
+                                                                "dimensions": {
+                                                                    "width": 141,
+                                                                    "height": 47
+                                                                },
+                                                                "assetId": "9be1f1aec1fa48cab12785b3d4f5055b",
+                                                                "timestamp": "2026-01-12T10:34:22Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "2",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4264_frame-a_2_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 25.078,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.311,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4277_3",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4278_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0.055,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4278_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.264
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/55a2d09137d73f1d11264f918d7e7919/55a2d09137d73f1d11264f918d7e7919.jpg?ts=1768214061371&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 163,
+                                                                            "height": 239
+                                                                        },
+                                                                        "assetId": "2801999f7a1342ef8b2f21bc52fd3657",
+                                                                        "timestamp": "2026-01-12T10:34:21Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536",
+                                                                        "metaPath": "/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4279_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.347
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/9249e8238fe086e017dc9eead70c9de5.svg?ts=1767949640950",
+                                                                "dimensions": {
+                                                                    "width": 141,
+                                                                    "height": 47
+                                                                },
+                                                                "assetId": "3a3e61c66f8d4f2690d3bea902ce9fac",
+                                                                "timestamp": "2026-01-09T09:07:20Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "3",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4264_frame-a_3_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 25.078,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.311,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4283_4",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4284_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0.055,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4284_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.264
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/55a2d09137d73f1d11264f918d7e7919/55a2d09137d73f1d11264f918d7e7919.jpg?ts=1768214061371&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 163,
+                                                                            "height": 239
+                                                                        },
+                                                                        "assetId": "2801999f7a1342ef8b2f21bc52fd3657",
+                                                                        "timestamp": "2026-01-12T10:34:21Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536",
+                                                                        "metaPath": "/assets/public/2801/999f/7a1342ef8b2f/21bc52fd3657/meta.json?ts=1768214070536"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4285_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.348
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/96a0857bcd965a326d1995723cc477c2.svg?ts=1767949640950",
+                                                                "dimensions": {
+                                                                    "width": 141,
+                                                                    "height": 47
+                                                                },
+                                                                "assetId": "1d991cba59264bad8501e837ef8ffcc4",
+                                                                "timestamp": "2026-01-09T09:07:20Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "4",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "486:816_desktop_2_fg-row",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 1.325,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                        },
+                        "children": [
+                            {
+                                "id": "681:4289_frame-3",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "styles": {},
+                                "children": [
+                                    {
+                                        "id": "681:4289_frame-3_0_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 34.986,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4290_1",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4291_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0.054,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4291_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.048
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 914,
+                                                                            "height": 1343
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4292_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.348
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/b00d818d52ee7252d7fca65cfce59579.svg?ts=1767949640950",
+                                                                "dimensions": {
+                                                                    "width": 791,
+                                                                    "height": 265
+                                                                },
+                                                                "assetId": "4099ab4c69eb4b43b623fef017d2520e",
+                                                                "timestamp": "2026-01-09T09:07:20Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "1",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4289_frame-3_1_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 35.898,
+                                            "paddingTop": 7.177,
+                                            "paddingBottom": 7.177,
+                                            "paddingStart": 0.586,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4296_2",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4297_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 3.097,
+                                                            "paddingBottom": 3.115,
+                                                            "paddingStart": 15.376,
+                                                            "paddingEnd": 15.366
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4297_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 626,
+                                                                            "height": 920
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4298_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 58.633,
+                                                            "top": 34.351,
+                                                            "left": 20.72
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/8b73/a8e0/40024894a5d7/b2c208c83a44/5ba8bb51a8695f70afe6e3bfd493489d.svg?ts=1768230517762",
+                                                                "dimensions": {
+                                                                    "width": 530,
+                                                                    "height": 178
+                                                                },
+                                                                "assetId": "12d83c2bfa2a491f8d763ac1833ed83f",
+                                                                "timestamp": "2026-01-12T15:08:37Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "2",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4289_frame-3_2_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 55.352,
+                                            "paddingTop": 0.009,
+                                            "paddingBottom": 0.009,
+                                            "paddingStart": 0.586,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4302_3",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {
+                                                    "backgroundColor": "#000000"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4303_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0,
+                                                            "paddingStart": 17.379,
+                                                            "paddingEnd": 17.396
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4303_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 914,
+                                                                            "height": 1343
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4304_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 56.429,
+                                                            "top": 41.233,
+                                                            "left": 21.779
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/7e5407de3993438abdcdaa488e46ab47.svg?ts=1767949640950",
+                                                                "dimensions": {
+                                                                    "width": 791,
+                                                                    "height": 265
+                                                                },
+                                                                "assetId": "899b435acf0542668ddb66fd82d714d6",
+                                                                "timestamp": "2026-01-09T09:07:20Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "3",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4289_frame-3_3_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 35.572,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.586,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4308_4",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4309_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4309_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.099
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 914,
+                                                                            "height": 1343
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4310_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.348
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/4d2d/eb13/f52a47539aeb/bfb394c9c0b9/88ed4ac848cb252d6db616aaa1a829d0.svg?ts=1767950922142",
+                                                                "dimensions": {
+                                                                    "width": 791,
+                                                                    "height": 265
+                                                                },
+                                                                "assetId": "5a24d51fa7f44ddebb551a4028798d3b",
+                                                                "timestamp": "2026-01-09T09:28:42Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "4",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4289_frame-3_4_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 35.572,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.586,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4314_5",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4315_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4315_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.099
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 914,
+                                                                            "height": 1343
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4316_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.348
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/4d2d/eb13/f52a47539aeb/bfb394c9c0b9/13794ceea1f119e1eb40d8e0d3e31834.svg?ts=1767950922142",
+                                                                "dimensions": {
+                                                                    "width": 791,
+                                                                    "height": 265
+                                                                },
+                                                                "assetId": "040c0563103347dab369ea4918d1f61f",
+                                                                "timestamp": "2026-01-09T09:28:42Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "5",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "681:4289_frame-3_5_fg-column",
+                                        "name": "fg-column",
+                                        "componentType": "container",
+                                        "direction": "vertical",
+                                        "positioning": {
+                                            "widthPercentage": 35.572,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0,
+                                            "paddingStart": 0.586,
+                                            "paddingEnd": 0
+                                        },
+                                        "children": [
+                                            {
+                                                "id": "681:4320_6",
+                                                "name": "fg-stacked",
+                                                "componentType": "container",
+                                                "direction": "stack",
+                                                "positioning": {
+                                                    "widthPercentage": 100
+                                                },
+                                                "styles": {},
+                                                "children": [
+                                                    {
+                                                        "id": "681:4321_stack-container",
+                                                        "name": "fg-column",
+                                                        "componentType": "container",
+                                                        "direction": "vertical",
+                                                        "positioning": {
+                                                            "widthPercentage": 100,
+                                                            "paddingTop": 0,
+                                                            "paddingBottom": 0,
+                                                            "paddingStart": 0,
+                                                            "paddingEnd": 0
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4321_image-1",
+                                                                "name": "image 1",
+                                                                "positioning": {
+                                                                    "widthPercentage": 102.099
+                                                                },
+                                                                "dataSourceKey": "image-1",
+                                                                "action": {
+                                                                    "type": "navigate"
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "image",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                        "dimensions": {
+                                                                            "width": 914,
+                                                                            "height": 1343
+                                                                        },
+                                                                        "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                        "timestamp": "2026-01-12T11:04:24Z",
+                                                                        "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                        "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "id": "681:4322_group-26",
+                                                        "name": "Group 26",
+                                                        "positioning": {
+                                                            "widthPercentage": 88.33,
+                                                            "top": 42.253,
+                                                            "left": 6.348
+                                                        },
+                                                        "componentType": "media",
+                                                        "storeFrontMedia": {
+                                                            "asset": {
+                                                                "type": "vector",
+                                                                "styles": {
+                                                                    "kind": "full",
+                                                                    "margined": false,
+                                                                    "scaleType": "fit"
+                                                                },
+                                                                "url": "https://static.zara.net/assets/public/4d2d/eb13/f52a47539aeb/bfb394c9c0b9/252fd6ceb719dc5ee8ca5114747e1d29.svg?ts=1767950922142",
+                                                                "dimensions": {
+                                                                    "width": 791,
+                                                                    "height": 265
+                                                                },
+                                                                "assetId": "ed8f302eaec04b419eb511feb6c56b5b",
+                                                                "timestamp": "2026-01-09T09:28:42Z"
+                                                            }
+                                                        }
+                                                    }
+                                                ],
+                                                "dataSourceKey": "6",
+                                                "action": {
+                                                    "type": "navigate"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "scrollable": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "486:816_desktop_3_fg-row",
+                        "name": "fg-row",
+                        "componentType": "container",
+                        "direction": "horizontal",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 1.309,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 7.734
+                        },
+                        "children": [
+                            {
+                                "id": "685:43653_frame-5",
+                                "name": "fg-row",
+                                "componentType": "container",
+                                "direction": "horizontal",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                },
+                                "styles": {},
+                                "children": [
+                                    {
+                                        "id": "681:4326_frame-4",
+                                        "name": "fg-row",
+                                        "componentType": "container",
+                                        "direction": "horizontal",
+                                        "positioning": {
+                                            "widthPercentage": 100,
+                                            "paddingTop": 0,
+                                            "paddingBottom": 0.021,
+                                            "paddingStart": 7.988,
+                                            "paddingEnd": 7.988
+                                        },
+                                        "styles": {},
+                                        "children": [
+                                            {
+                                                "id": "681:4326_frame-4_0_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 55.846,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 0,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4327_1",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4328_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4328_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4329_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/9f091c7a7462140a50b9eb3ca879f041.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "46f8225743d04b49bd28f9063fb79b07",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "1",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "681:4326_frame-4_1_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 56.891,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 1.046,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4333_2",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4334_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4334_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4335_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/2654085bbcebde5db02f9462712ed1c6.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "865ca6f1b5a64d04b2380ddf0a174bde",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "2",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "681:4326_frame-4_2_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 56.891,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 1.046,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4339_3",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4340_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4340_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4341_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/7f87bd5418d02d578f64a9903591467f.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "38a1355f4c9a412687e2895d8393b7b1",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "3",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "681:4326_frame-4_3_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 56.891,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 1.046,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4345_4",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4346_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4346_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4347_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/4bf1829c07aae447e1506b6ec9f9ba3d.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "5bbadfebafa34b3fb6a3e849ac9d289f",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "4",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "681:4326_frame-4_4_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 56.891,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 1.046,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4351_5",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4352_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4352_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4353_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/1d8034a33c151e66a158d5e38d21837f.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "06deda4a05044b008d98dc1c3745b403",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "5",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "id": "681:4326_frame-4_5_fg-column",
+                                                "name": "fg-column",
+                                                "componentType": "container",
+                                                "direction": "vertical",
+                                                "positioning": {
+                                                    "widthPercentage": 56.891,
+                                                    "paddingTop": 0,
+                                                    "paddingBottom": 0,
+                                                    "paddingStart": 1.046,
+                                                    "paddingEnd": 0
+                                                },
+                                                "children": [
+                                                    {
+                                                        "id": "681:4357_6",
+                                                        "name": "fg-stacked",
+                                                        "componentType": "container",
+                                                        "direction": "stack",
+                                                        "positioning": {
+                                                            "widthPercentage": 100
+                                                        },
+                                                        "styles": {},
+                                                        "children": [
+                                                            {
+                                                                "id": "681:4358_stack-container",
+                                                                "name": "fg-column",
+                                                                "componentType": "container",
+                                                                "direction": "vertical",
+                                                                "positioning": {
+                                                                    "widthPercentage": 100,
+                                                                    "paddingTop": 0,
+                                                                    "paddingBottom": 0,
+                                                                    "paddingStart": 0,
+                                                                    "paddingEnd": 0
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "id": "681:4358_image-1",
+                                                                        "name": "image 1",
+                                                                        "positioning": {
+                                                                            "widthPercentage": 102.099
+                                                                        },
+                                                                        "dataSourceKey": "image-1",
+                                                                        "action": {
+                                                                            "type": "navigate"
+                                                                        },
+                                                                        "componentType": "media",
+                                                                        "storeFrontMedia": {
+                                                                            "asset": {
+                                                                                "type": "image",
+                                                                                "styles": {
+                                                                                    "kind": "full",
+                                                                                    "margined": false,
+                                                                                    "scaleType": "fit"
+                                                                                },
+                                                                                "url": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/4b4dcc10d8ec50720c4e0517a23ac6bf/4b4dcc10d8ec50720c4e0517a23ac6bf.jpg?ts=1768215864639&w={width}",
+                                                                                "dimensions": {
+                                                                                    "width": 1132,
+                                                                                    "height": 1663
+                                                                                },
+                                                                                "assetId": "62f0f8081a0447d4b8797490a86472f4",
+                                                                                "timestamp": "2026-01-12T11:04:24Z",
+                                                                                "metaUrl": "https://static.zara.net/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460",
+                                                                                "metaPath": "/assets/public/62f0/f808/1a0447d4b879/7490a86472f4/meta.json?ts=1768215878460"
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "id": "681:4359_group-26",
+                                                                "name": "Group 26",
+                                                                "positioning": {
+                                                                    "widthPercentage": 88.33,
+                                                                    "top": 42.253,
+                                                                    "left": 6.348
+                                                                },
+                                                                "componentType": "media",
+                                                                "storeFrontMedia": {
+                                                                    "asset": {
+                                                                        "type": "vector",
+                                                                        "styles": {
+                                                                            "kind": "full",
+                                                                            "margined": false,
+                                                                            "scaleType": "fit"
+                                                                        },
+                                                                        "url": "https://static.zara.net/assets/public/e60f/0c64/8a454641b3ba/f620351f4301/ef6e8b1669fc27ab9daecfd5b9f32a6e.svg?ts=1767949640950",
+                                                                        "dimensions": {
+                                                                            "width": 979,
+                                                                            "height": 328
+                                                                        },
+                                                                        "assetId": "1c43896e00914748997032c11a08872e",
+                                                                        "timestamp": "2026-01-09T09:07:20Z"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "dataSourceKey": "6",
+                                                        "action": {
+                                                            "type": "navigate"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "scrollable": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "dataSources": {
+        "image-1": {
+            "type": "product",
+            "data": [
+                {
+                    "id": [
+                        "510452250"
+                    ],
+                    "name": "SHORTS TIRO ALTO EFECTO PIEL",
+                    "reference": "C01255561800016-V2026",
+                    "currentPrice": "19,95  EUR",
+                    "description": "",
+                    "seo": {
+                        "id": "01255561",
+                        "keyword": "-s-h-o-r-t-s---t-i-r-o---a-l-t-o---e-f-e-c-t-o---p-i-e-l-"
+                    }
+                }
+            ]
+        }
+    }
+}

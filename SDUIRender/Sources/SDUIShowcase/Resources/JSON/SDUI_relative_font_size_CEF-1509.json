@@ -1,0 +1,317 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "1",
+                "componentType": "container",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "direction": "vertical",
+                "children": [
+                    {
+                        "id": "2",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#00CC00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "3",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.08
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#00CCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "5",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.04
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#FFCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "7",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.08
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#CCCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "9",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.04
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "10",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#CCFF00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "11",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.04
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "12",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#FFFF00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "13",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.02
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#FFCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "15",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna.",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.04
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#CCCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "17",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna.",
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSizeRelative": 0.02
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "18",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#DDBBF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "19",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSize": 600,
+                                    "fontSizeRelative": 0.04
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "20",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "styles": {
+                            "backgroundColor": "#AACCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "21",
+                                "textContent": "Lorem ipsum",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                },
+                                "styles": {
+                                    "fontSize": 600,
+                                    "fontSizeRelative": 0.40,
+                                    "semantic-typography": "mds-typo-body-l"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

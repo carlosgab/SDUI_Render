@@ -1,0 +1,681 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "horizontalAlignment": "start",
+                    "verticalAlignment": "start"
+                },
+                "direction": "vertical",
+                "children": [
+                    {
+                        "id": "1",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#AAFFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "horizontalAlignment": "start",
+                            "verticalAlignment": "start"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "2",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "3",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "5",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "6",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "7",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "9",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "10",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "11",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "12",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "start",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "13",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "14",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FFFFAA"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "horizontalAlignment": "start",
+                            "verticalAlignment": "start"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "15",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "16",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "17",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "18",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "19",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "20",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "21",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "22",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "23",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "24",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "25",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "center",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "26",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": "27",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#AAFFAA"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "horizontalAlignment": "end",
+                            "verticalAlignment": "start"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "28",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "29",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "30",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "31",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "32",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "33",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "34",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "35",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "36",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "37",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "38",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "horizontalAlignment": "end",
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "39",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                                        {
+                        "id": "40",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#CCFF00"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "41",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "42",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "43",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "44",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "45",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "46",
+                                        "textContent": "text",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "47",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "48",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "start",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "49",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "50",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "center",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "51",
+                                "componentType": "container",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "verticalAlignment": "start"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "componentType": "text",
+                                        "id": "52",
+                                        "textContent": "10 sized text content without maxLines, start aligned. Lorem ipsum dolor sit amet.",
+                                        "styles": {
+                                            "textAlign": "end",
+                                            "fontSize": 10
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
+

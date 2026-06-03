@@ -1,0 +1,772 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "offsetEnd": 25,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 2.5,
+            "children": [
+              {
+                "componentType": "image",
+                "id": "demo_image11",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image12",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image13",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image14",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 50,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 2.5,
+            "children": [
+              {
+                "componentType": "image",
+                "id": "demo_image21",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image22",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image23",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image24",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3,
+            "children": [
+              {
+                "componentType": "image",
+                "id": "demo_image31",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image32",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image33",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image34",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 100,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 2.5,
+            "children": [
+              {
+                "componentType": "image",
+                "id": "demo_image41",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image42",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image43",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image44",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "itemSpacing": 0,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 2.5,
+            "children": [
+              {
+                "componentType": "image",
+                "id": "demo_image51",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image52",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image53",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "componentType": "image",
+                "id": "demo_image54",
+                "textContent": [],
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "maxWidthPercentage": null,
+                  "minWidthPercentage": null,
+                  "maxHeightPercentage": null,
+                  "minHeightPercentage": null,
+                  "paddingTop": 8,
+                  "paddingBottom": 8,
+                  "paddingStart": 16,
+                  "paddingEnd": 16,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

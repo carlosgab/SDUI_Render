@@ -1,0 +1,134 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": null,
+      "dimensions": {
+        "width": null,
+        "height": null
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#ffff00"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "center",
+          "horizontalAlignment": "center"
+        },
+        "direction": "vertical",
+        "spacing": 8,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "styles": {
+              "backgroundColor": "#ff8000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "free",
+            "visibleItems": 2.5,
+            "offsetStart": 25,
+            "offsetEnd": 25,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "2",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 50,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "3",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "4",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "5",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "6",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              },
+              {
+                "id": "7",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "textContent": "Text content with *italic*",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "start"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

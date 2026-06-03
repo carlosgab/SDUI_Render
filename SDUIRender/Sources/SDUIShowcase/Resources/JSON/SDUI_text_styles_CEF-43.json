@@ -1,0 +1,155 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "Text content with backgroundColor",
+                        "styles": {
+                            "backgroundColor": "#A5FAA0"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "Text content with borderRadius",
+                        "styles": {
+                            "border": {
+                                "global": {
+                                    "color": "#FFFF00",
+                                    "width": 2,
+                                    "radius": 4
+                                }
+                            }
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "3",
+                        "textContent": "Text content with border",
+                        "styles": {
+                            "border": {
+                                "global": {
+                                    "color": "#FFAA00",
+                                    "width": 3
+                                }
+                            }
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "4",
+                        "textContent": "Text content with shadow",
+                        "styles": {
+                            "shadow": "0px 2px 4px rgba(0, 0, 0, 0.05)",
+                            "border": {
+                                "global": {
+                                    "color": "#FFAAAA",
+                                    "width": 3
+                                }
+                            }
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "5",
+                        "textContent": "Text content with opacity",
+                        "styles": {
+                            "opacity": 0.2
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "6",
+                        "textContent": "Text content with overflow clip. This is a very long text to demonstrate how clipping behaves when it reaches the end.",
+                        "styles": {
+                            "textOverflow": "clip",
+                            "maxLines": 1
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "7",
+                        "textContent": "Text content with overflow ellipsis. This is a very long text to demonstrate how an ellipsis behaves when it reaches the end.",
+                        "styles": {
+                            "textOverflow": "ellipsis",
+                            "maxLines": 1
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "8",
+                        "textContent": "Text content with overflow fade. This is a very long text to demonstrate how the fade behaves when it reaches the end.",
+                        "styles": {
+                            "textOverflow": "fade",
+                            "maxLines": 1
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2491 @@
+{
+"responsiveLayouts": [
+  {
+    "id": "e42a9611ba43bcee8e8920a6e5d39a9f",
+    "name": "sky-editorial-ski-editorial-ski-1920",
+    "minWidth": 1024,
+    "dimensions": {
+      "width": 1024,
+      "height": 21239
+    },
+    "componentTree": {
+      "id": "2178:218_ski-1920",
+      "name": "fg-column",
+      "componentType": "container",
+      "direction": "vertical",
+      "positioning": {
+        "widthPercentage": 100,
+        "paddingTop": 16.89,
+        "paddingBottom": 8.01,
+        "paddingStart": -0.29,
+        "paddingEnd": -0.39
+      },
+      "styles": {
+        "backgroundColor": "#ffffff"
+      },
+      "children": [
+        {
+          "id": "0_fg-stacked_604a09bf-a29b-4c5f-abe5-a2bca59ec866",
+          "name": "fg-stacked",
+          "componentType": "container",
+          "direction": "stack",
+          "positioning": {
+            "widthPercentage": 100
+          },
+          "children": [
+            {
+              "id": "2bbcc9f3-1bf6-4036-ad25-ae337e8d19ba",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0.29,
+                "paddingEnd": 0.39
+              },
+              "children": [
+                {
+                  "id": "2178:296_look01",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "styles": {},
+                  "datasourceKey": "look01",
+                  "action": {
+                    "type": "navigate"
+                  },
+                  "children": [
+                    {
+                      "id": "2178:297_img01",
+                      "name": "img01",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "datasourceKey": "look01",
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "image",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/d59b/9bfa/5ef840978108/00ccf11341e4/f8558b8f8e12157ce63eb35744b8d9a2/f8558b8f8e12157ce63eb35744b8d9a2.jpg?ts=1747861522822",
+                          "dimensions": {
+                              "width": 1024,
+                              "height": 753
+                          },
+                          "assetId": "d59b9bfa5ef84097810800ccf11341e4",
+                          "timestamp": "2025-05-21T21:05:22Z"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2178:298_logo-ski",
+              "name": "logo_ski",
+              "positioning": {
+                "widthPercentage": 48.69,
+                "top": 85.13,
+                "left": 0.29
+              },
+              "componentType": "media",
+              "storeFrontMedia": {
+                "asset": {
+                  "type": "vector",
+                  "styles": {
+                    "kind": "full",
+                    "margined": false,
+                    "scaleType": "fit"
+                  },
+                  "url": "https://preint-static-zaracom.inditex.com/assets/public/c545/9e3c/7e0d41e0abec/0269149eba0b/fb904ceb03ced499807d68dc2294703e.svg?ts=1747861530863",
+                  "dimensions": {
+                      "width": 502,
+                      "height": 112
+                  },
+                  "assetId": "c5459e3c7e0d41e0abec0269149eba0b",
+                  "timestamp": "2025-05-21T21:05:30Z"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "1_fg-row_4907fa1c-584f-463d-8c07-3e512ba44afe",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 8.54,
+            "paddingBottom": 0,
+            "paddingStart": 6.6,
+            "paddingEnd": 6.6
+          },
+          "children": [
+            {
+              "id": "2178:294_look02",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "datasourceKey": "look02",
+              "action": {
+                "type": "navigate"
+              },
+              "children": [
+                {
+                  "id": "2178:295_img02",
+                  "name": "img02",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "datasourceKey": "look02",
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/c5fb/67bc/8bc64914a268/6574ee419ad7/c142653e3a55b94c11bb0da7b4a85f05/c142653e3a55b94c11bb0da7b4a85f05.jpg?ts=1748514220038",
+                      "dimensions": {
+                          "width": 895,
+                          "height": 1343
+                      },
+                      "assetId": "c5fb67bc8bc64914a2686574ee419ad7",
+                      "timestamp": "2025-05-29T10:23:40Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2_fg-row_8cddb4cf-2d71-4dab-9890-b2b7fa6f2d90",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 6.01,
+            "paddingBottom": 0,
+            "paddingStart": 10.67,
+            "paddingEnd": 10.57
+          },
+          "children": [
+            {
+              "id": "2178:290_content01",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "datasourceKey": "content01",
+              "action": {
+                "type": "navigate"
+              },
+              "children": [
+                {
+                  "id": "0_fg-column_299a14b8-0f5a-456f-b55c-756388afcb68",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 63.05,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:291_look03",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2594:4868_img03",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "2594:4869_img03",
+                              "name": "img03",
+                              "positioning": {
+                                "widthPercentage": 100
+                              },
+                              "componentType": "media",
+                              "storeFrontMedia": {
+                                "asset": {
+                                  "type": "image",
+                                  "styles": {
+                                    "kind": "full",
+                                    "margined": false,
+                                    "scaleType": "fit"
+                                  },
+                                  "url": "https://preint-static-zaracom.inditex.com/assets/public/4855/4503/4aa34bb0a26b/e398e514699b/05c63c37da0dd9a43c5199252899a0c7/05c63c37da0dd9a43c5199252899a0c7.jpg?ts=1748514220794",
+                                  "dimensions": {
+                                      "width": 512,
+                                      "height": 768
+                                  },
+                                  "assetId": "485545034aa34bb0a26be398e514699b",
+                                  "timestamp": "2025-05-29T10:23:40Z"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-column_548c8537-638b-46ef-a78e-6b04f0985938",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 36.95,
+                    "paddingTop": 28.82,
+                    "paddingBottom": 36.33,
+                    "paddingStart": 7.39,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:293_aw24-north-woman-ski-collection-editoral-text03",
+                      "name": "aw24-north-woman-ski-collection#editoral_text03",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/5144ea6ff9926198bed4e89fcba8f767.svg?ts=1748502667259",
+                          "dimensions": {
+                              "width": 240,
+                              "height": 239
+                          },
+                          "assetId": "0b94a087da784e70985b429c055b820d",
+                          "timestamp": "2025-05-29T07:11:07Z"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3_fg-row_5f5126f1-115c-4fab-b712-a58ccf692a90",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 4.36,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:288_look04",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "datasourceKey": "look04",
+              "action": {
+                "type": "navigate"
+              },
+              "children": [
+                {
+                  "id": "2178:289_img04",
+                  "name": "img04",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "datasourceKey": "look04",
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/ee1b/9006/37b849d0a3ea/487937c9eb43/c363a71e4450594f6b4af2ad2410d15e/c363a71e4450594f6b4af2ad2410d15e.jpg?ts=1747861526327",
+                      "dimensions": {
+                          "width": 1024,
+                          "height": 753
+                      },
+                      "assetId": "ee1b900637b849d0a3ea487937c9eb43",
+                      "timestamp": "2025-05-21T21:05:26Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4_fg-row_7b4bafa5-e59b-4e6d-8583-b9108673fb70",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 2.72,
+            "paddingBottom": 0,
+            "paddingStart": 6.5,
+            "paddingEnd": 6.6
+          },
+          "children": [
+            {
+              "id": "2178:285_look05",
+              "name": "fg-stacked",
+              "componentType": "container",
+              "direction": "stack",
+              "positioning": {
+                "widthPercentage": 100
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "9fbd8a07-d97c-4297-8b28-e4af029b95b6",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2594:6490_img05",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2594:6491_img05",
+                          "name": "img05",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/3711/0347/4c3447b0857f/29807793d09b/5c5143daf51f3d53d18db8962105ebfc/5c5143daf51f3d53d18db8962105ebfc.jpg?ts=1747861527477",
+                              "dimensions": {
+                                  "width": 896,
+                                  "height": 1344
+                              },
+                              "assetId": "371103474c3447b0857f29807793d09b",
+                              "timestamp": "2025-05-21T21:05:27Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "2178:287_aw24-north-woman-ski-collection-editorial-ski-collection",
+                  "name": "aw24-north-woman-ski-collection#editorial_ski_collection",
+                  "positioning": {
+                    "widthPercentage": 20.54,
+                    "top": 2.6,
+                    "left": 2.79
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "vector",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/cd31e173c12cda42cbbcce25b103152a.svg?ts=1748502667259",
+                      "dimensions": {
+                          "width": 184,
+                          "height": 11
+                      },
+                      "assetId": "0b94a087da784e70985b429c055b820d",
+                      "timestamp": "2025-05-29T07:11:07Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5_fg-row_4114eb65-8097-4b5a-b43a-cbcdf6712282",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 4.36,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:283_look06",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:284_img06",
+                  "name": "img06",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/6765/b20c/9bc44cd28b80/8181d1053e28/9c7e91d3061a8fddd9348987d73f0961/9c7e91d3061a8fddd9348987d73f0961.jpg?ts=1747861528443",
+                      "dimensions": {
+                          "width": 1024,
+                          "height": 753
+                      },
+                      "assetId": "6765b20c9bc44cd28b808181d1053e28",
+                      "timestamp": "2025-05-21T21:05:28Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6_fg-row_6af1a6f5-e0da-4e1a-b047-82c2feb51e0a",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 5.43,
+            "paddingBottom": 0,
+            "paddingStart": 23.96,
+            "paddingEnd": 24.05
+          },
+          "children": [
+            {
+              "id": "2178:280_text01",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-column_fe5be19f-b9cc-4980-928d-fe42a302b04f",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 48.69,
+                    "paddingTop": 0,
+                    "paddingBottom": 0.19,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:281_aw24-north-woman-ski-collection-editoral-text01",
+                      "name": "aw24-north-woman-ski-collection#editoral_text01",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/4f13/6638/6cfc49aaa7c4/7ebd27039c9b/c7cdf156e6ce85a021503e180485b629.svg?ts=1748503625998",
+                          "dimensions": {
+                              "width": 261,
+                              "height": 13
+                          },
+                          "assetId": "4f1366386cfc49aaa7c47ebd27039c9b",
+                          "timestamp": "2025-05-29T07:27:05Z"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-column_23bdbe80-6ed9-4cfc-a95c-6f04e3b60ef9",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 51.31,
+                    "paddingTop": 0.19,
+                    "paddingBottom": 0,
+                    "paddingStart": 2.61,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:282_aw24-north-woman-ski-collection-editorial-ski-collection",
+                      "name": "aw24-north-woman-ski-collection#editorial_ski_collection",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b5d/d11f/9a1943038d27/42c8535fef75/607376ffff7e0cba9d8c6d66dd80c539.svg?ts=1748503983471",
+                          "dimensions": {
+                              "width": 261,
+                              "height": 11
+                          },
+                          "assetId": "0b5dd11f9a1943038d2742c8535fef75",
+                          "timestamp": "2025-05-29T07:33:03Z"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7_fg-row_6b58f9e9-567b-4de9-b666-581f610673e2",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 4.56,
+            "paddingBottom": 0,
+            "paddingStart": 8.83,
+            "paddingEnd": 6.01
+          },
+          "children": [
+            {
+              "id": "2178:278_look07",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:279_img07",
+                  "name": "img07",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/baff/9e17/d6ac4d9cbc0b/d51a41aa15de/1c23ed834e386996f6686838741e835e/1c23ed834e386996f6686838741e835e.jpg?ts=1747861529170",
+                      "dimensions": {
+                          "width": 878,
+                          "height": 646
+                      },
+                      "assetId": "baff9e17d6ac4d9cbc0bd51a41aa15de",
+                      "timestamp": "2025-05-21T21:05:29Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8_fg-row_3f831e62-51e1-4022-a40e-b7440f043686",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 7.27,
+            "paddingBottom": 0,
+            "paddingStart": 0,
+            "paddingEnd": 0
+          },
+          "children": [
+            {
+              "id": "2178:273_content02",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-column_66594653-ec5a-457b-87af-a10bced7c347",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 49.08,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:274_look08",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:275_img09",
+                          "name": "img09",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/0e56/a55a/25234a859192/4a8e23e2e0f7/05117153a5d2f1e9cb06e7bc8ca8b8b6/05117153a5d2f1e9cb06e7bc8ca8b8b6.jpg?ts=1747861530081",
+                              "dimensions": {
+                                  "width": 506,
+                                  "height": 759
+                              },
+                              "assetId": "0e56a55a25234a8591924a8e23e2e0f7",
+                              "timestamp": "2025-05-21T21:05:30Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-column_9e3b5216-8e37-4984-8459-149150472489",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 50.92,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 1.84,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:276_look09",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:277_img08",
+                          "name": "img08",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/bfed/52b0/d875418db8de/0f7e2b21b516/f91d2dbea184e07bf2b5cf05bd93230f/f91d2dbea184e07bf2b5cf05bd93230f.jpg?ts=1747861530994",
+                              "dimensions": {
+                                  "width": 506,
+                                  "height": 759
+                              },
+                              "assetId": "bfed52b0d875418db8de0f7e2b21b516",
+                              "timestamp": "2025-05-21T21:05:30Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9_fg-row_363f4ab3-8ddd-4a92-a4b2-fe8cc8efeb6e",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 6.3,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:271_look10",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:272_img10",
+                  "name": "img10",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/7fde/0e99/3d7545669641/999c47532b63/525d1fb3f8f1d84705285f0ad6817573/525d1fb3f8f1d84705285f0ad6817573.jpg?ts=1747861531709",
+                      "dimensions": {
+                          "width": 1024,
+                          "height": 753
+                      },
+                      "assetId": "7fde0e993d7545669641999c47532b63",
+                      "timestamp": "2025-05-21T21:05:31Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10_fg-row_c50f7e39-75de-4daf-9603-cb8fdc9a5956",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 5.33,
+            "paddingBottom": 0,
+            "paddingStart": 13.19,
+            "paddingEnd": 3.59
+          },
+          "children": [
+            {
+              "id": "2178:267_content03",
+              "name": "fg-stacked",
+              "componentType": "container",
+              "direction": "stack",
+              "positioning": {
+                "widthPercentage": 100
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "dcab7c4a-85d6-4526-b7bb-4245d4d8b363",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 40.33,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:268_look11",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:269_img11",
+                          "name": "img11",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/943a/7f3b/4aff4e40b672/cae96b63be9a/c5099ea7decdc713cfbd358d7ec11365/c5099ea7decdc713cfbd358d7ec11365.jpg?ts=1747861532731",
+                              "dimensions": {
+                                  "width": 512,
+                                  "height": 768
+                              },
+                              "assetId": "943a7f3b4aff4e40b672cae96b63be9a",
+                              "timestamp": "2025-05-21T21:05:32Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "2178:270_aw24-north-woman-ski-collection-editoral-text03",
+                  "name": "aw24-north-woman-ski-collection#editoral_text03",
+                  "positioning": {
+                    "widthPercentage": 27.97,
+                    "top": 34.64,
+                    "left": 0
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "vector",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/3ee79d246b8453c361d94040dccdf1b6.svg?ts=1748502667259",
+                      "dimensions": {
+                          "width": 240,
+                          "height": 239
+                      },
+                      "assetId": "0b94a087da784e70985b429c055b820d",
+                      "timestamp": "2025-05-29T07:11:07Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11_fg-row_c16dba69-9e0a-4bea-b676-ba49b2ca6ec9",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 3.59,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:264_content04",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:265_look12",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "styles": {},
+                  "children": [
+                    {
+                      "id": "2178:266_img12",
+                      "name": "img12",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "image",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/4175/7072/3bc54f508988/ea69ced997e4/ecfcb31a662d7ed3ad5e162e587eaece/ecfcb31a662d7ed3ad5e162e587eaece.jpg?ts=1747861533374",
+                          "dimensions": {
+                              "width": 1024,
+                              "height": 753
+                          },
+                          "assetId": "417570723bc54f508988ea69ced997e4",
+                          "timestamp": "2025-05-21T21:05:33Z"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12_fg-row_7b473eba-b208-49f8-8f26-6eef134fb65d",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 9.02,
+            "paddingBottom": 0,
+            "paddingStart": 3.88,
+            "paddingEnd": 3.88
+          },
+          "children": [
+            {
+              "id": "2178:259_content05",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-row_85bcac39-e30e-426b-9a4a-f8b397faa50e",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 23.76,
+                    "paddingEnd": 22.61
+                  },
+                  "children": [
+                    {
+                      "id": "2178:263_aw24-north-woman-ski-collection-editoral-title",
+                      "name": "aw24-north-woman-ski-collection#editoral_title",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/26feebe33f568cbc6a1862f929777cee.svg?ts=1748502667259",
+                          "dimensions": {
+                              "width": 510,
+                              "height": 26
+                          },
+                          "assetId": "0b94a087da784e70985b429c055b820d",
+                          "timestamp": "2025-05-29T07:11:07Z"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-row_1cfa996d-d0c4-43a6-90e9-720a977e96d1",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0.84,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:262_aw24-north-woman-ski-collection-collection-subtitle",
+                      "name": "aw24-north-woman-ski-collection#collection_subtitle",
+                      "positioning": {
+                        "widthPercentage": 100
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/fbb65443419e327c651e6536d1780b72.svg?ts=1748502667259",
+                          "dimensions": {
+                              "width": 951,
+                              "height": 30
+                          },
+                          "assetId": "0b94a087da784e70985b429c055b820d",
+                          "timestamp": "2025-05-29T07:11:07Z"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "2_fg-row_eee4ddb4-55af-4a91-8d3a-6f37714748ad",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 4.63,
+                    "paddingBottom": 0,
+                    "paddingStart": 1.16,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:260_look13",
+                      "name": "fg-row",
+                      "componentType": "container",
+                      "direction": "horizontal",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:261_img13",
+                          "name": "img13",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/6209/f774/6bdd4816bb2c/aefc528b0690/1e8483ebc5477bc77e4f8c333420ab48/1e8483ebc5477bc77e4f8c333420ab48.jpg?ts=1747861534218",
+                              "dimensions": {
+                                  "width": 940,
+                                  "height": 627
+                              },
+                              "assetId": "6209f7746bdd4816bb2caefc528b0690",
+                              "timestamp": "2025-05-21T21:05:34Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "13_fg-row_ff325508-5860-4ed4-b313-18d15efe8c07",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 8.54,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 8.92
+          },
+          "children": [
+            {
+              "id": "2178:251_content06",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-row_4ea67b20-539b-4a1d-bcef-ac4e35495f40",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "0_fg-column_24d2d2c5-14a4-40b2-a466-34fdef5d44e3",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 53.95,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "children": [
+                        {
+                          "id": "2178:255_look14",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "2178:256_img14",
+                              "name": "img14",
+                              "positioning": {
+                                "widthPercentage": 100
+                              },
+                              "componentType": "media",
+                              "storeFrontMedia": {
+                                "asset": {
+                                  "type": "image",
+                                  "styles": {
+                                    "kind": "full",
+                                    "margined": false,
+                                    "scaleType": "fit"
+                                  },
+                                  "url": "https://preint-static-zaracom.inditex.com/assets/public/3dfc/5c56/275043459b58/9793d449fe22/71d7c3d77f7661a02c05c3aa22b95ede/71d7c3d77f7661a02c05c3aa22b95ede.jpg?ts=1747861534965",
+                                  "dimensions": {
+                                      "width": 505,
+                                      "height": 796
+                                  },
+                                  "assetId": "3dfc5c56275043459b589793d449fe22",
+                                  "timestamp": "2025-05-21T21:05:34Z"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1_fg-column_845cbde9-2f8b-4695-8873-ad6bb8853684",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 46.05,
+                        "paddingTop": 12.93,
+                        "paddingBottom": 44.66,
+                        "paddingStart": 8.65,
+                        "paddingEnd": 0
+                      },
+                      "children": [
+                        {
+                          "id": "2595:16097_texts",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "0_fg-row_6492b860-651a-4740-9103-66723ac489eb",
+                              "name": "fg-row",
+                              "componentType": "container",
+                              "direction": "horizontal",
+                              "positioning": {
+                                "widthPercentage": 100,
+                                "paddingTop": 0,
+                                "paddingBottom": 0,
+                                "paddingStart": 21.43,
+                                "paddingEnd": 21.43
+                              },
+                              "children": [
+                                {
+                                  "id": "2178:258_aw24-north-woman-ski-collection-editorial-title02",
+                                  "name": "aw24-north-woman-ski-collection#editorial_title02",
+                                  "positioning": {
+                                    "widthPercentage": 100
+                                  },
+                                  "componentType": "media",
+                                  "storeFrontMedia": {
+                                    "asset": {
+                                      "type": "vector",
+                                      "styles": {
+                                        "kind": "full",
+                                        "margined": false,
+                                        "scaleType": "fit"
+                                      },
+                                      "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/6ebee23b7a60e4f58a7b2c06b5e20c42.svg?ts=1748502667259",
+                                      "dimensions": {
+                                          "width": 200,
+                                          "height": 11
+                                      },
+                                      "assetId": "0b94a087da784e70985b429c055b820d",
+                                      "timestamp": "2025-05-29T07:11:07Z"
+                                    }
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "id": "1_fg-row_38892544-5d61-4de5-9e99-e6b4f1050366",
+                              "name": "fg-row",
+                              "componentType": "container",
+                              "direction": "horizontal",
+                              "positioning": {
+                                "widthPercentage": 100,
+                                "paddingTop": 3.14,
+                                "paddingBottom": 0,
+                                "paddingStart": 0,
+                                "paddingEnd": 0
+                              },
+                              "children": [
+                                {
+                                  "id": "2178:257_aw24-north-woman-ski-collection-editorial-text02",
+                                  "name": "aw24-north-woman-ski-collection#editorial_text02",
+                                  "positioning": {
+                                    "widthPercentage": 100
+                                  },
+                                  "componentType": "media",
+                                  "storeFrontMedia": {
+                                    "asset": {
+                                      "type": "vector",
+                                      "styles": {
+                                        "kind": "full",
+                                        "margined": false,
+                                        "scaleType": "fit"
+                                      },
+                                      "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/e61dfe3f78108bd041b4a99de10b9ab8.svg?ts=1748502667259",
+                                      "dimensions": {
+                                          "width": 350,
+                                          "height": 235
+                                      },
+                                      "assetId": "0b94a087da784e70985b429c055b820d",
+                                      "timestamp": "2025-05-29T07:11:07Z"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-row_f8edc293-c580-423e-ab78-e256e0ca6102",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 6.73,
+                    "paddingBottom": 0,
+                    "paddingStart": 26.92,
+                    "paddingEnd": 19.12
+                  },
+                  "children": [
+                    {
+                      "id": "2178:252_look15",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:253_video",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "2594:13709_aw24-north-woman-ski-collection-editorial-video01",
+                              "name": "fg-column",
+                              "componentType": "container",
+                              "direction": "vertical",
+                              "positioning": {
+                                "widthPercentage": 100,
+                                "paddingTop": 0,
+                                "paddingBottom": 0,
+                                "paddingStart": 0,
+                                "paddingEnd": 0
+                              },
+                              "styles": {
+                                "border": {
+                                  "color": "rgba(194, 191, 188, 1)",
+                                  "style": "solid",
+                                  "weight": "1"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "2594:13709_aw24-north-woman-ski-collection-editorial-video01-bg-image",
+                                  "name": "aw24-north-woman-ski-collection-editorial-video01_bg-image",
+                                  "positioning": {
+                                    "widthPercentage": 100
+                                  },
+                                  "componentType": "media",
+                                  "storeFrontMedia": {
+                                    "asset": {
+                                      "type": "image",
+                                      "styles": {
+                                        "kind": "full",
+                                        "margined": false,
+                                        "scaleType": "fit"
+                                      },
+                                      "url": "https://preint-static-zaracom.inditex.com/assets/public/090a/3b33/0fa24bf78d32/483fab733f0a/dafa107b21300091db1f71271d4333d1/dafa107b21300091db1f71271d4333d1.jpg?ts=1748502659810",
+                                      "dimensions": {
+                                          "width": 505,
+                                          "height": 758
+                                      },
+                                      "assetId": "090a3b330fa24bf78d32483fab733f0a",
+                                      "timestamp": "2025-05-29T07:10:59Z"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14_fg-row_29bcb7fa-6c74-4208-a7e2-0c8b2f72d56b",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 8.54,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:249_look16",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:250_img15",
+                  "name": "img15",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/34e1/2d3b/311f4057b2e2/34e00d343d27/8d8cf901669d57d8cf45facfeff66553/8d8cf901669d57d8cf45facfeff66553.jpg?ts=1747861535747",
+                      "dimensions": {
+                          "width": 1024,
+                          "height": 675
+                      },
+                      "assetId": "34e12d3b311f4057b2e234e00d343d27",
+                      "timestamp": "2025-05-21T21:05:35Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "15_fg-row_329bd022-a403-4d5d-af9a-3f9f24d812df",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 3.1,
+            "paddingBottom": 0,
+            "paddingStart": 3.59,
+            "paddingEnd": 3.49
+          },
+          "children": [
+            {
+              "id": "2178:247_look17",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:248_img16",
+                  "name": "img16",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/c728/2862/7ebd44e98a2b/da3c372d09e4/aa7e404da89d581408c8cb1bc4ea885c/aa7e404da89d581408c8cb1bc4ea885c.jpg?ts=1747861536849",
+                      "dimensions": {
+                          "width": 958,
+                          "height": 1437
+                      },
+                      "assetId": "c72828627ebd44e98a2bda3c372d09e4",
+                      "timestamp": "2025-05-21T21:05:36Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "16_fg-row_38764143-4446-44db-b0df-c8ba3a809e6e",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 7.47,
+            "paddingBottom": 0,
+            "paddingStart": 4.85,
+            "paddingEnd": 4.75
+          },
+          "children": [
+            {
+              "id": "2178:245_look18",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:246_img17",
+                  "name": "img17",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/7251/5f2f/567e491e8547/093b8fa23d9a/e80a2ef800ef24ec6323ec5f20e92348/e80a2ef800ef24ec6323ec5f20e92348.jpg?ts=1747861537491",
+                      "dimensions": {
+                          "width": 932,
+                          "height": 621
+                      },
+                      "assetId": "72515f2f567e491e8547093b8fa23d9a",
+                      "timestamp": "2025-05-21T21:05:37Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "17_fg-row_dffcc350-9ac3-429d-8e3d-c5e077ebe6f9",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 7.37,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:236_content07",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-stacked_1b9621b3-ba57-42ae-97b2-8d62ebfe59da",
+                  "name": "fg-stacked",
+                  "componentType": "container",
+                  "direction": "stack",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "children": [
+                    {
+                      "id": "9d9f6cac-408f-4ad1-99af-ba13ef4b5fe4",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 50.59,
+                        "paddingEnd": 0
+                      },
+                      "children": [
+                        {
+                          "id": "2178:241_look19",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "2178:242_img18",
+                              "name": "img18",
+                              "positioning": {
+                                "widthPercentage": 100
+                              },
+                              "componentType": "media",
+                              "storeFrontMedia": {
+                                "asset": {
+                                  "type": "image",
+                                  "styles": {
+                                    "kind": "full",
+                                    "margined": false,
+                                    "scaleType": "fit"
+                                  },
+                                  "url": "https://preint-static-zaracom.inditex.com/assets/public/08cc/783c/a6fb48edae3f/c1bf16860a6f/ef928a5bf03adb2f5cb7ba248f075b5b/ef928a5bf03adb2f5cb7ba248f075b5b.jpg?ts=1747861538690",
+                                  "dimensions": {
+                                      "width": 506,
+                                      "height": 774
+                                  },
+                                  "assetId": "08cc783ca6fb48edae3fc1bf16860a6f",
+                                  "timestamp": "2025-05-21T21:05:38Z"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "2178:243_aw24-north-woman-ski-collection-editorial-text02",
+                      "name": "aw24-north-woman-ski-collection#editorial_text02",
+                      "positioning": {
+                        "widthPercentage": 34.18,
+                        "top": 29.84,
+                        "left": 7.62
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/a394723508eb9aa109123d2097e086d4.svg?ts=1748502667259",
+                          "dimensions": {
+                              "width": 350,
+                              "height": 208
+                          },
+                          "assetId": "0b94a087da784e70985b429c055b820d",
+                          "timestamp": "2025-05-29T07:11:07Z"
+                        }
+                      }
+                    },
+                    {
+                      "id": "2178:244_aw24-north-woman-ski-collection-editorial-title02",
+                      "name": "aw24-north-woman-ski-collection#editorial_title02",
+                      "positioning": {
+                        "widthPercentage": 23.24,
+                        "top": 27.26,
+                        "left": 13.09
+                      },
+                      "componentType": "media",
+                      "storeFrontMedia": {
+                        "asset": {
+                          "type": "vector",
+                          "styles": {
+                            "kind": "full",
+                            "margined": false,
+                            "scaleType": "fit"
+                          },
+                          "url": "https://preint-static-zaracom.inditex.com/assets/public/0b94/a087/da784e70985b/429c055b820d/61d336a7d63074d2fc1045157c69dc67.svg?ts=1748502667259",
+                          "dimensions": {
+                              "width": 238,
+                              "height": 11
+                          },
+                          "assetId": "0b94a087da784e70985b429c055b820d",
+                          "timestamp": "2025-05-29T07:11:07Z"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-row_10cd3abc-0e7d-4f8e-9802-f39d6937e728",
+                  "name": "fg-row",
+                  "componentType": "container",
+                  "direction": "horizontal",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 1.66,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "0_fg-column_b90e1af7-d163-4847-b702-d65ec388d4d7",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 49.32,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": -50.68,
+                        "paddingEnd": 0
+                      },
+                      "children": [
+                        {
+                          "id": "0_fg-stacked_29e4ace3-c0da-42e1-90f3-f5942ad5f46d",
+                          "name": "fg-stacked",
+                          "componentType": "container",
+                          "direction": "stack",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "children": [
+                            {
+                              "id": "31f0312d-8bb0-48ff-86d2-3fdffba449d4",
+                              "name": "fg-column",
+                              "componentType": "container",
+                              "direction": "vertical",
+                              "positioning": {
+                                "widthPercentage": 100,
+                                "paddingTop": 0,
+                                "paddingBottom": 0,
+                                "paddingStart": 50.68,
+                                "paddingEnd": 0
+                              },
+                              "children": [
+                                {
+                                  "id": "2178:237_look21",
+                                  "name": "fg-column",
+                                  "componentType": "container",
+                                  "direction": "vertical",
+                                  "positioning": {
+                                    "widthPercentage": 100,
+                                    "paddingTop": 0,
+                                    "paddingBottom": 0,
+                                    "paddingStart": 0,
+                                    "paddingEnd": 0
+                                  },
+                                  "styles": {},
+                                  "children": [
+                                    {
+                                      "id": "2178:238_img20",
+                                      "name": "img20",
+                                      "positioning": {
+                                        "widthPercentage": 100
+                                      },
+                                      "componentType": "media",
+                                      "storeFrontMedia": {
+                                        "asset": {
+                                          "type": "image",
+                                          "styles": {
+                                            "kind": "full",
+                                            "margined": false,
+                                            "scaleType": "fit"
+                                          },
+                                          "url": "https://preint-static-zaracom.inditex.com/assets/public/a8e3/d6b5/df8842e49842/9a6cc2725e16/f88a9362af46932dc39ae203d476035c/f88a9362af46932dc39ae203d476035c.jpg?ts=1747861539576",
+                                          "dimensions": {
+                                              "width": 505,
+                                              "height": 736
+                                          },
+                                          "assetId": "a8e3d6b5df8842e498429a6cc2725e16",
+                                          "timestamp": "2025-05-21T21:05:39Z"
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "id": "2178:239_look20",
+                              "name": "fg-column",
+                              "componentType": "container",
+                              "direction": "vertical",
+                              "positioning": {
+                                "widthPercentage": 49.32,
+                                "paddingTop": 0,
+                                "paddingBottom": 0,
+                                "paddingStart": 0,
+                                "paddingEnd": 0,
+                                "top": 0,
+                                "left": 0
+                              },
+                              "styles": {},
+                              "children": [
+                                {
+                                  "id": "2178:240_img19",
+                                  "name": "img19",
+                                  "positioning": {
+                                    "widthPercentage": 100
+                                  },
+                                  "componentType": "media",
+                                  "storeFrontMedia": {
+                                    "asset": {
+                                      "type": "image",
+                                      "styles": {
+                                        "kind": "full",
+                                        "margined": false,
+                                        "scaleType": "fit"
+                                      },
+                                      "url": "https://preint-static-zaracom.inditex.com/assets/public/be4a/dd16/c6254e80be8f/2e551b193244/183e3b0d58f4f3a3b8ebc6bdcd8bcce4/183e3b0d58f4f3a3b8ebc6bdcd8bcce4.jpg?ts=1747861540000",
+                                      "dimensions": {
+                                          "width": 505,
+                                          "height": 736
+                                      },
+                                      "assetId": "be4add16c6254e80be8f2e551b193244",
+                                      "timestamp": "2025-05-21T21:05:40Z"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "18_fg-row_98770e0a-d4aa-4549-b04d-f81b1ddd64f0",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 5.92,
+            "paddingBottom": 0,
+            "paddingStart": 24.83,
+            "paddingEnd": 26.09
+          },
+          "children": [
+            {
+              "id": "2178:233_look22",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:234_video",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "styles": {},
+                  "children": [
+                    {
+                      "id": "2594:13171_aw24-north-woman-ski-collection-editorial-video02",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {
+                        "border": {
+                          "color": "rgba(194, 191, 188, 1)",
+                          "style": "solid",
+                          "weight": "1"
+                        }
+                      },
+                      "children": [
+                        {
+                          "id": "2594:13171_aw24-north-woman-ski-collection-editorial-video02-bg-image",
+                          "name": "aw24-north-woman-ski-collection-editorial-video02_bg-image",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/d3a0/5de0/4f764d678d0a/9f9510c9fe18/c81a4e3b3ac150cd4fd9c3ed61c10149/c81a4e3b3ac150cd4fd9c3ed61c10149.jpg?ts=1748502660567",
+                              "dimensions": {
+                                  "width": 505,
+                                  "height": 736
+                              },
+                              "assetId": "d3a05de04f764d678d0a9f9510c9fe18",
+                              "timestamp": "2025-05-29T07:11:00Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19_fg-row_7265d9d1-e39e-4f3b-8975-6cc16993b128",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 5.72,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:227_content08",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "0_fg-column_3efd18ec-51e8-43ad-b5e7-5e03a343347e",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 49.32,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:231_look23",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:232_img20",
+                          "name": "img20",
+                          "positioning": {
+                            "widthPercentage": 100
+                          },
+                          "componentType": "media",
+                          "storeFrontMedia": {
+                            "asset": {
+                              "type": "image",
+                              "styles": {
+                                "kind": "full",
+                                "margined": false,
+                                "scaleType": "fit"
+                              },
+                              "url": "https://preint-static-zaracom.inditex.com/assets/public/8fe9/6b8e/17ea4c49b4b2/1d2bcd67af35/bafed063b97004f58388d6a0f38f728c/bafed063b97004f58388d6a0f38f728c.jpg?ts=1747861540737",
+                              "dimensions": {
+                                  "width": 505,
+                                  "height": 736
+                              },
+                              "assetId": "8fe96b8e17ea4c49b4b21d2bcd67af35",
+                              "timestamp": "2025-05-21T21:05:40Z"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1_fg-column_8d3c2f86-efb8-4d7e-8200-b77f6016b1c0",
+                  "name": "fg-column",
+                  "componentType": "container",
+                  "direction": "vertical",
+                  "positioning": {
+                    "widthPercentage": 50.68,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 1.37,
+                    "paddingEnd": 0
+                  },
+                  "children": [
+                    {
+                      "id": "2178:228_look24",
+                      "name": "fg-column",
+                      "componentType": "container",
+                      "direction": "vertical",
+                      "positioning": {
+                        "widthPercentage": 100,
+                        "paddingTop": 0,
+                        "paddingBottom": 0,
+                        "paddingStart": 0,
+                        "paddingEnd": 0
+                      },
+                      "styles": {},
+                      "children": [
+                        {
+                          "id": "2178:229_video",
+                          "name": "fg-column",
+                          "componentType": "container",
+                          "direction": "vertical",
+                          "positioning": {
+                            "widthPercentage": 100,
+                            "paddingTop": 0,
+                            "paddingBottom": 0,
+                            "paddingStart": 0,
+                            "paddingEnd": 0
+                          },
+                          "styles": {},
+                          "children": [
+                            {
+                              "id": "2594:11917_-aw24-north-woman-ski-collection-editorial-video03",
+                              "name": "fg-column",
+                              "componentType": "container",
+                              "direction": "vertical",
+                              "positioning": {
+                                "widthPercentage": 100,
+                                "paddingTop": 0,
+                                "paddingBottom": 0,
+                                "paddingStart": 0,
+                                "paddingEnd": 0
+                              },
+                              "styles": {
+                                "border": {
+                                  "color": "rgba(194, 191, 188, 1)",
+                                  "style": "solid",
+                                  "weight": "1"
+                                }
+                              },
+                              "children": [
+                                {
+                                  "id": "2594:11917_-aw24-north-woman-ski-collection-editorial-video03-bg-image",
+                                  "name": "🎬aw24-north-woman-ski-collection-editorial-video03_bg-image",
+                                  "positioning": {
+                                    "widthPercentage": 100
+                                  },
+                                  "componentType": "media",
+                                  "storeFrontMedia": {
+                                    "asset": {
+                                      "type": "image",
+                                      "styles": {
+                                        "kind": "full",
+                                        "margined": false,
+                                        "scaleType": "fit"
+                                      },
+                                      "url": "https://preint-static-zaracom.inditex.com/assets/public/71c6/2cd9/ceee4505986f/fb10266477d4/fffa984fdc61f8eb14167423df9be606/fffa984fdc61f8eb14167423df9be606.jpg?ts=1748502661128",
+                                      "dimensions": {
+                                          "width": 505,
+                                          "height": 736
+                                      },
+                                      "assetId": "71c62cd9ceee4505986ffb10266477d4",
+                                      "timestamp": "2025-05-29T07:11:01Z"
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "20_fg-row_27998b73-47c2-4ffe-b5d0-9ea60a0dd542",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 4.46,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 0.39
+          },
+          "children": [
+            {
+              "id": "2178:225_look25",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:226_img21",
+                  "name": "img21",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/b348/4f4e/0eae4fbcace9/1397de066ae2/49ab8ec5e323d2c05655e2eb8922617d/49ab8ec5e323d2c05655e2eb8922617d.jpg?ts=1747861541690",
+                      "dimensions": {
+                          "width": 1024,
+                          "height": 638
+                      },
+                      "assetId": "b3484f4e0eae4fbcace91397de066ae2",
+                      "timestamp": "2025-05-21T21:05:41Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "21_fg-row_cf74ef4f-77bb-4fcb-b8ab-35a46df67f0e",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 9.51,
+            "paddingBottom": 0,
+            "paddingStart": 0.29,
+            "paddingEnd": 50.63
+          },
+          "children": [
+            {
+              "id": "2178:223_look26",
+              "name": "fg-column",
+              "componentType": "container",
+              "direction": "vertical",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:224_img22",
+                  "name": "img22",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/00a6/253b/370048a79be1/c7dd0b1cec24/1cba621bd49776d23411d606f542797e/1cba621bd49776d23411d606f542797e.jpg?ts=1747861542415",
+                      "dimensions": {
+                          "width": 506,
+                          "height": 736
+                      },
+                      "assetId": "00a6253b370048a79be1c7dd0b1cec24",
+                      "timestamp": "2025-05-21T21:05:42Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "22_fg-row_cc28c34b-64e5-48d9-a8c9-c8021b8096d2",
+          "name": "fg-row",
+          "componentType": "container",
+          "direction": "horizontal",
+          "positioning": {
+            "widthPercentage": 100,
+            "paddingTop": 8.63,
+            "paddingBottom": 0,
+            "paddingStart": 4.75,
+            "paddingEnd": 4.85
+          },
+          "children": [
+            {
+              "id": "2178:221_look27",
+              "name": "fg-row",
+              "componentType": "container",
+              "direction": "horizontal",
+              "positioning": {
+                "widthPercentage": 100,
+                "paddingTop": 0,
+                "paddingBottom": 0,
+                "paddingStart": 0,
+                "paddingEnd": 0
+              },
+              "styles": {},
+              "children": [
+                {
+                  "id": "2178:222_img23",
+                  "name": "img23",
+                  "positioning": {
+                    "widthPercentage": 100
+                  },
+                  "componentType": "media",
+                  "storeFrontMedia": {
+                    "asset": {
+                      "type": "image",
+                      "styles": {
+                        "kind": "full",
+                        "margined": false,
+                        "scaleType": "fit"
+                      },
+                      "url": "https://preint-static-zaracom.inditex.com/assets/public/5510/f908/75854eeb8b08/24d1a66e70b6/6c1466f60f4eff9cf38caafb872d4344/6c1466f60f4eff9cf38caafb872d4344.jpg?ts=1747861543196",
+                      "dimensions": {
+                          "width": 932,
+                          "height": 621
+                      },
+                      "assetId": "5510f90875854eeb8b0824d1a66e70b6",
+                      "timestamp": "2025-05-21T21:05:43Z"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "thumbnail": "https://preint-static-zaracom.inditex.com/assets/public/40d1/b249/a09643938ea6/f3eb1230a7bf/e42a9611ba43bcee8e8920a6e5d39a9f-thumbnail/e42a9611ba43bcee8e8920a6e5d39a9f-thumbnail.jpg?ts=1748514219247"
+  }
+]
+}

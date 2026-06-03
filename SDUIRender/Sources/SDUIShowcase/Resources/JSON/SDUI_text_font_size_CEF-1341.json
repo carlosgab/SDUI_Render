@@ -1,0 +1,97 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "direction": "vertical",
+                "spacing": 20,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "1",
+                        "textContent": "Text content with letterSpacing",
+                        "styles": {
+                            "letterSpacing": 2
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "2",
+                        "textContent": "Text content with maxLines. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "styles": {
+                            "maxLines": 2,
+                            "textOverflow": "ellipsis"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "3",
+                        "textContent": "Text content without maxLines. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "3",
+                        "textContent": "Text content with small lineHeight. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero qit amet vestibylum rhoncus, ipsum.",
+                        "styles": {
+                            "lineHeight": 0.8
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "4",
+                        "textContent": "Text content with textOverflow = ellipsis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at enim vitae sem rutrum laoreet ut mollis ipsum. Praesent dolor mi, fringilla at felis ut, egestas hendrerit tortor. Morbi cursus sem leo. Quisque posuere, libero sit amet vestibulum rhoncus, ipsum.",
+                        "styles": {
+                            "maxLines": 1,
+                            "textOverflow": "ellipsis"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "start"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

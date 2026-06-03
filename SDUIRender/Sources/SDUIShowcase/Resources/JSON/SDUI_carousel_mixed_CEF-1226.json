@@ -1,0 +1,261 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": null,
+      "dimensions": {
+        "width": null,
+        "height": null
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#ffff00"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "center",
+          "horizontalAlignment": "center"
+        },
+        "direction": "vertical",
+        "spacing": 8,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "styles": {
+              "backgroundColor": "#ff8000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "center"
+            },
+            "scrollMode": "free",
+            "visibleItems": 2.5,
+            "offsetStart": 25,
+            "offsetEnd": 25,
+            "itemSpacing": 10,
+            "children": [
+              {
+                "id": "image1",
+                "componentType": "image",
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "image": {
+                  "path": "https://dummyimage.com/300x300/000/fff.jpg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                      "width": 300,
+                      "height": 300
+                  }
+                }
+              },
+              {
+                "id": "2",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 50
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos."
+              },
+              {
+                "id": "3",
+                "componentType": "container",
+                "styles": {
+                  "backgroundColor": "#0a0a0a"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 30,
+                  "paddingTop": 10,
+                  "paddingBottom": 10,
+                  "paddingStart": 10,
+                  "paddingEnd": 10,
+                  "verticalAlignment": "center"
+                },
+                "direction": "horizontal",
+                "children": [
+                  {
+                    "id": "5",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#00FF00"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 100,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  },
+                  {
+                    "id": "6",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#0000FF"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 75,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  }
+                ]
+              },
+              {
+                "id": "4",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "5",
+                "componentType": "container",
+                "styles": {
+                  "backgroundColor": "#0a0a0a"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 30,
+                  "paddingTop": 10,
+                  "paddingBottom": 10,
+                  "paddingStart": 10,
+                  "paddingEnd": 10,
+                  "verticalAlignment": "center"
+                },
+                "direction": "horizontal",
+                "children": [
+                  {
+                    "id": "5",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#00FF00"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 100,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  },
+                  {
+                    "id": "6",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#0000FF"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 75,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  }
+                ]
+              },
+              {
+                "id": "6",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000"
+                },
+                "positioning": {
+                  "widthPercentage": 100
+                },
+                "textContent": "Este es un texto de prueba muy largo para probar como se ven los contenedores que tienen alturas o anchos automáticos. En el caso de que un contenedor padre tenga un valor null en ancho o alto, se debe ajustar al tamaño de su hijo, en este caso el tamaño de este texto tan largo."
+              },
+              {
+                "id": "7",
+                "componentType": "container",
+                "styles": {
+                  "backgroundColor": "#0a0a0a"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 30,
+                  "paddingTop": 10,
+                  "paddingBottom": 10,
+                  "paddingStart": 10,
+                  "paddingEnd": 10,
+                  "verticalAlignment": "center"
+                },
+                "direction": "horizontal",
+                "children": [
+                  {
+                    "id": "5",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#00FF00"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 100,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  },
+                  {
+                    "id": "6",
+                    "componentType": "container",
+                    "styles": {
+                      "backgroundColor": "#0000FF"
+                    },
+                    "positioning": {
+                      "widthPercentage": 50,
+                      "heightPercentage": 75,
+                      "paddingTop": 0,
+                      "paddingBottom": 0,
+                      "paddingStart": 0,
+                      "paddingEnd": 0
+                    },
+                    "direction": "vertical"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

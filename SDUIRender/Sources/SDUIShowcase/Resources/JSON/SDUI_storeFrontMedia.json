@@ -1,0 +1,191 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "componentType": "container",
+                "id": "root_page",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "maxWidthPercentage": null,
+                    "minWidthPercentage": null,
+                    "maxHeightPercentage": null,
+                    "minHeightPercentage": null,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "direction": "vertical",
+                "spacing": 16,
+                "children": [
+                    {
+                        "componentType": "text",
+                        "id": "welcome_text",
+                        "textContent": "*Welcome* to **SDUI** [demo](https://zara.com).",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 50,
+                            "maxWidthPercentage": null,
+                            "minWidthPercentage": null,
+                            "maxHeightPercentage": null,
+                            "minHeightPercentage": null,
+                            "paddingTop": 16,
+                            "paddingBottom": 16,
+                            "paddingStart": 16,
+                            "paddingEnd": 16,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "transparent"
+                        },
+                        "direction": "vertical",
+                        "spacing": 0
+                    },
+                    {
+                        "componentType": "media",
+                        "id": "demo_image",
+                        "textContent": "",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "maxWidthPercentage": null,
+                            "minWidthPercentage": null,
+                            "maxHeightPercentage": null,
+                            "minHeightPercentage": null,
+                            "paddingTop": 8,
+                            "paddingBottom": 8,
+                            "paddingStart": 16,
+                            "paddingEnd": 16,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "transparent"
+                        },
+                        "storeFrontMedia": {
+                            "asset": {
+                                "type": "image",
+                                "assetId": "456",
+                                "timestamp": "2020-01-01T00:00:00Z",
+                                "url": "https://static.zara.net/assets/public/6036/c806/a9ca48bd8e91/4e20e3037e50/02731297800-002-p/02731297800-002-p.jpg?ts=1727769047800&w={width}",
+                                "dimensions": {
+                                    "width": 2048,
+                                    "height": 3072
+                                },
+                                "styles": {
+                                    "kind": "full",
+                                    "scaleType": "center",
+                                    "margined": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "componentType": "media",
+                        "id": "demo_video",
+                        "textContent": "",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 100,
+                            "maxWidthPercentage": null,
+                            "minWidthPercentage": null,
+                            "maxHeightPercentage": null,
+                            "minHeightPercentage": null,
+                            "paddingTop": 8,
+                            "paddingBottom": 8,
+                            "paddingStart": 16,
+                            "paddingEnd": 16,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "transparent"
+                        },
+                        "direction": "vertical",
+                        "spacing": 0,
+                        "storeFrontMedia": {
+                            "asset": {
+                                "type": "video",
+                                "assetId": "456",
+                                "timestamp": "2020-01-01T00:00:00Z",
+                                "url": "https://static.zara.net/assets/public/ec49/f977/b45f47c9bab0/56704c355c29/08501526330-400-p.m3u8?ts=1723101786264",
+                                "dimensions": {
+                                    "width": 720,
+                                    "height": 1080
+                                },
+                                "styles": {
+                                    "kind": "full",
+                                    "scaleType": "center",
+                                    "backgroundColor": "#FABADA",
+                                    "position": {
+                                        "top": 0,
+                                        "left": 50,
+                                        "width": 350,
+                                        "height": 200
+                                    },
+                                    "margined": false
+                                },
+                                "config": {
+                                    "controls": [
+                                        "AUDIO",
+                                        "PLAYTOGGLE",
+                                        "PROGRESSBAR",
+                                        "FULLSCREEN"
+                                    ],
+                                    "appearance": {
+                                        "controlsColor": "#ffffff"
+                                    },
+                                    "behaviour": {
+                                        "avoidAutoPlay": false,
+                                        "hlsVideoUrl": "https://example.com/video.hls"
+                                    },
+                                    "posterUrl": "https://static.zara.net/assets/public/f845/344b/4d154d8da3dc/0c8743e753a6/00722342712-o2.jpg?ts=1728995524595",
+                                    "videoFallbackUrl": "https://static.zara.net/assets/public/f845/344b/4d154d8da3dc/0c8743e753a6/720p.mp4?ts=1728995524595"
+                                }
+                            },
+                            "aspectRatio": "16:9",
+                            "autoplay": true,
+                            "loop": true,
+                            "muted": true
+                        }
+                    },
+                    {
+                        "componentType": "text",
+                        "id": "description_text",
+                        "textContent": "Above you can see examples of both image and video XMedia components.",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "maxWidthPercentage": null,
+                            "minWidthPercentage": null,
+                            "maxHeightPercentage": null,
+                            "minHeightPercentage": null,
+                            "paddingTop": 16,
+                            "paddingBottom": 16,
+                            "paddingStart": 16,
+                            "paddingEnd": 16,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+
+                        "styles": {
+                            "backgroundColor": "transparent"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
+

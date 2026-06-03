@@ -1,0 +1,85 @@
+{
+    "id": "33d9a246217090eef35b3c9c6dcce87d",
+    "responsiveLayouts": [
+        {
+            "id": "908ccb1ff2c4b35f9773599bf1ce68ac",
+            "name": "sdui-test-test-container-image-rotated-image",
+            "minWidth": 5898,
+            "dimensions": {
+                "width": 5898,
+                "height": 5816
+            },
+            "componentTree": {
+                "id": "1701:133_image",
+                "name": "fg-row",
+                "componentType": "container",
+                "direction": "horizontal",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": null,
+                    "paddingPercentage": {
+                        "top": 2.73,
+                        "bottom": 24.603,
+                        "start": 1.184,
+                        "end": 35.57
+                    },
+                    "rotation": 50.83
+                },
+                "styles": {},
+                "children": [
+                    {
+                        "id": "1701:134_frame-3",
+                        "name": "fg-column",
+                        "componentType": "container",
+                        "direction": "vertical",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": null,
+                            "paddingPercentage": {
+                                "top": 37.746,
+                                "bottom": 28.192,
+                                "start": 30.699,
+                                "end": 0.793
+                            },
+                            "rotation": -50.83
+                        },
+                        "styles": {
+                            "backgroundColor": "#ae3535"
+                        },
+                        "children": [
+                            {
+                                "id": "1701:135_08228021250-a1-1",
+                                "name": "08228021250-a1 1",
+                                "positioning": {
+                                    "widthPercentage": 101.282,
+                                    "heightPercentage": null
+                                },
+                                "componentType": "media",
+                                "storeFrontMedia": {
+                                    "asset": {
+                                        "type": "image",
+                                        "styles": {
+                                            "kind": "full",
+                                            "margined": false,
+                                            "scaleType": "fit"
+                                        },
+                                        "url": "https://static.zara.net/assets/public/dd79/686c/ef624296bec7/f4c5d47252b4/d6573ac1abdbf128f5e21dfa73487c86/d6573ac1abdbf128f5e21dfa73487c86.jpg?ts=1770367676510&w={width}",
+                                        "dimensions": {
+                                            "width": 1809,
+                                            "height": 2714
+                                        },
+                                        "assetId": "dd79686cef624296bec7f4c5d47252b4",
+                                        "timestamp": "2026-02-06T08:47:56Z",
+                                        "metaUrl": "https://static.zara.net/assets/public/dd79/686c/ef624296bec7/f4c5d47252b4/meta.json?ts=1770367693069",
+                                        "metaPath": "/assets/public/dd79/686c/ef624296bec7/f4c5d47252b4/meta.json?ts=1770367693069"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "dataSources": {}
+}

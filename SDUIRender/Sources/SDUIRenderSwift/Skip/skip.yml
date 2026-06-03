@@ -1,0 +1,12 @@
+# Skip configuration for SDUIRenderSwift module
+# this is a transpiled Skip Lite module
+skip:
+  mode: 'transpiled'
+
+build:
+  contents:
+    - block: 'dependencies'
+      contents:
+        - 'implementation("com.inditex.xmpand:xmpand:5.5.1")'
+        - 'implementation("com.inditex.itxmedand:storefront-core:1.2.0")'
+        - 'implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.10.0")'

@@ -1,0 +1,147 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "aspectRatio": 1.8,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "itemSpace": { "value": 8 },
+            "children": [
+              {
+                "id": "item1",
+                "componentType": "image",
+                "positioning": {
+                  "heightPercentage": 100,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": { "backgroundColor": "transparent" },
+                "image": {
+                  "path": "file://SDUI_carousel_basic_CEF-1048/image1",
+                  "objectFit": "cover",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 200,
+                    "height": 300
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "item2",
+                "componentType": "image",
+                "positioning": {
+                  "heightPercentage": 100,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": { "backgroundColor": "transparent" },
+                "image": {
+                  "path": "file://SDUI_editorial_masonry/image2.jpg",
+                  "objectFit": "cover",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 1064,
+                    "height": 1330
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "item3",
+                "componentType": "image",
+                "positioning": {
+                  "heightPercentage": 100,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": { "backgroundColor": "transparent" },
+                "image": {
+                  "path": "file://SDUI_editorial_masonry/image18.svg",
+                  "objectFit": "contain",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 358,
+                    "height": 288
+                  }
+                },
+                "children": []
+              },
+              {
+                "id": "item4",
+                "componentType": "image",
+                "positioning": {
+                  "heightPercentage": 100,
+                  "paddingTop": 0,
+                  "paddingBottom": 0,
+                  "paddingStart": 0,
+                  "paddingEnd": 0,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                },
+                "styles": { "backgroundColor": "transparent" },
+                "image": {
+                  "path": "file://SDUI_editorial_masonry/image4.jpg",
+                  "objectFit": "cover",
+                  "objectPosition": "center",
+                  "dimensions": {
+                    "width": 272,
+                    "height": 341
+                  }
+                },
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,111 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "1",
+        "componentType": "container",
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": null,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "space": {
+            "value": 10
+        },
+        "children": [
+          {
+            "componentType": "text",
+            "id": "1",
+            "textContent": "Trigger action navigateToProduct",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "navigate"
+            },
+            "dataSourceKey": "productX"
+          },
+          {
+            "componentType": "text",
+            "id": "2",
+            "textContent": "Trigger action navigateToCategory",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "navigate"
+            },
+            "dataSourceKey": "categoryY"
+          },
+          {
+            "componentType": "text",
+            "id": "3",
+            "textContent": "Trigger action addToCart",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "addToCart"
+            },
+            "dataSourceKey": "productX"
+          },
+          {
+            "componentType": "text",
+            "id": "4",
+            "textContent": "Trigger action navigateToUrl",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": null,
+              "verticalAlignment": "center",
+              "horizontalAlignment": "start"
+            },
+            "action": {
+              "type": "navigateToUrl",
+              "payload": {
+                "url": "https://www.zara.com",
+                "useExternalBrowser": true
+              }
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "dataSources": {
+    "productX": {
+      "type": "product",
+      "data": [
+        {
+          "id": ["12345"],
+          "name": "Zapatillas blancas",
+          "image": "https://...jpg"
+        }
+      ]
+    },
+    "categoryY": {
+      "type": "category",
+      "data": [
+        {
+          "id": "11111",
+          "name": "Categoría ejemplo"
+        }
+      ]
+    }
+  }
+}

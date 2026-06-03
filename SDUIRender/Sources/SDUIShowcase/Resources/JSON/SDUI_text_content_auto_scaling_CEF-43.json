@@ -1,0 +1,182 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "1",
+                "componentType": "container",
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "direction": "vertical",
+                "children": [
+                    {
+                        "id": "2",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#00CC00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "3",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#00CCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "5",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6",
+                        "componentType": "container",
+                        "positioning": {
+                            "heightPercentage": 20,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#FFCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "7",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8",
+                        "componentType": "container",
+                        "positioning": {
+                            "heightPercentage": 10,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#CCCCF0"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "9",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "10",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 20,
+                            "heightPercentage": 20,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#CCFF00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "11",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "12",
+                        "componentType": "container",
+                        "positioning": {
+                            "widthPercentage": 20,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "center"
+                        },
+                        "styles": {
+                            "backgroundColor": "#FFFF00"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "componentType": "text",
+                                "id": "13",
+                                "textContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et orci magna. Donec porttitor maximus dui, et commodo mauris rhoncus ac. Praesent tortor turpis, bibendum non enim vel, accumsan pretium arcu. Etiam vel auctor justo. Fusce quis eleifend leo, pharetra imperdiet quam. In mi mauris, pretium sit amet commodo hendrerit, efficitur ut felis. Donec vitae lobortis arcu.",
+                                "positioning": {
+                                    "widthPercentage": 100,
+                                    "heightPercentage": null,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "start"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

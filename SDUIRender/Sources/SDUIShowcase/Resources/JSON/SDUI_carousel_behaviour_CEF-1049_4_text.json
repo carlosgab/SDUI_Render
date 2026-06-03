@@ -1,0 +1,476 @@
+{
+  "responsiveLayouts": [
+    {
+      "minWidth": 100,
+      "dimensions": {
+        "width": 100,
+        "height": 100
+      },
+      "componentTree": {
+        "id": "0",
+        "componentType": "container",
+        "styles": {
+          "backgroundColor": "#FFFFFF"
+        },
+        "positioning": {
+          "widthPercentage": 100,
+          "heightPercentage": 100,
+          "paddingTop": 0,
+          "paddingBottom": 0,
+          "paddingStart": 0,
+          "paddingEnd": 0,
+          "verticalAlignment": "start",
+          "horizontalAlignment": "start"
+        },
+        "direction": "vertical",
+        "hasScroll": true,
+        "children": [
+          {
+            "id": "1",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "offsetEnd": 40,
+            "scrollMode": "snap",
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3.5,
+            "children": [
+              {
+                "id": "11",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the first item.",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_12",
+                "componentType": "text",
+                "textContent": "Elemento de texto 2",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F8F8F8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_13",
+                "componentType": "text",
+                "textContent": "Elemento de texto 3",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F0F0F0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_14",
+                "componentType": "text",
+                "textContent": "Elemento de texto 4",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E8E8E8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_15",
+                "componentType": "text",
+                "textContent": "Elemento de texto 5",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E0E0E0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_16",
+                "componentType": "text",
+                "textContent": "Elemento de texto 6",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D8D8D8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_17",
+                "componentType": "text",
+                "textContent": "Elemento de texto 7",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D0D0D0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "18",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the last item.",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 0,
+            "offsetEnd": 40,
+            "scrollMode": "snap",
+            "itemSpacing": 200,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3.5,
+            "children": [
+              {
+                "id": "21",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the first item. Big spacing",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_22",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 2",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F8F8F8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_23",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 3",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F0F0F0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_24",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 4",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E8E8E8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_25",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 5",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E0E0E0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_26",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 6",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D8D8D8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_27",
+                "componentType": "text",
+                "textContent": "Elemento espaciado 7",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D0D0D0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "28",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the last item.",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "componentType": "carousel",
+            "positioning": {
+              "widthPercentage": 100,
+              "heightPercentage": 20,
+              "paddingTop": 0,
+              "paddingBottom": 0,
+              "paddingStart": 0,
+              "paddingEnd": 0,
+              "verticalAlignment": "start",
+              "horizontalAlignment": "start"
+            },
+            "offsetStart": 40,
+            "offsetEnd": 40,
+            "scrollMode": "snap",
+            "itemSpacing": 20,
+            "itemsAspectRatio": 4.3,
+            "visibleItems": 3.5,
+            "children": [
+              {
+                "id": "31",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the first item. offsetStart: 40",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_32",
+                "componentType": "text",
+                "textContent": "Elemento offset 2",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F8F8F8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_33",
+                "componentType": "text",
+                "textContent": "Elemento offset 3",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#F0F0F0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_34",
+                "componentType": "text",
+                "textContent": "Elemento offset 4",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E8E8E8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_35",
+                "componentType": "text",
+                "textContent": "Elemento offset 5",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#E0E0E0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_36",
+                "componentType": "text",
+                "textContent": "Elemento offset 6",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D8D8D8",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "text_37",
+                "componentType": "text",
+                "textContent": "Elemento offset 7",
+                "styles": {
+                  "textAlignment": "center",
+                  "backgroundColor": "#D0D0D0",
+                  "textColor": "#333333"
+                },
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              },
+              {
+                "id": "38",
+                "componentType": "text",
+                "styles": {
+                  "backgroundColor": "#FF0000",
+                  "textAlignment": "center"
+                },
+                "textContent": "This is the last item.",
+                "positioning": {
+                  "widthPercentage": 100,
+                  "heightPercentage": 100,
+                  "verticalAlignment": "center",
+                  "horizontalAlignment": "center"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

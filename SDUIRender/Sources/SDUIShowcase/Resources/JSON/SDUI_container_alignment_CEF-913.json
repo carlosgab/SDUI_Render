@@ -1,0 +1,406 @@
+{
+    "responsiveLayouts": [
+        {
+            "minWidth": 100,
+            "dimensions": {
+                "width": 100,
+                "height": 100
+            },
+            "componentTree": {
+                "id": "0",
+                "componentType": "container",
+                "styles": {
+                    "backgroundColor": "#FFFFFF"
+                },
+                "positioning": {
+                    "widthPercentage": 100,
+                    "heightPercentage": 100,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingStart": 0,
+                    "paddingEnd": 0,
+                    "verticalAlignment": "start",
+                    "horizontalAlignment": "start"
+                },
+                "scrollable": true,
+                "direction": "vertical",
+                "children": [
+                    {
+                        "id": "1",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF0000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "2",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            },
+                            {
+                                "id": "3",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF00FF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "5",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            },
+                            {
+                                "id": "6",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#00FFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "end",
+                            "horizontalAlignment": "end"
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "8",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            },
+                            {
+                                "id": "9",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "10",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#000000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10
+                        },
+                        "direction": "vertical",
+                        "children": [
+                            {
+                                "id": "11",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            },
+                            {
+                                "id": "12",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 50,
+                                    "heightPercentage": 30
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "13",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF0000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "direction": "horizontal",
+                        "children": [
+                            {
+                                "id": "14",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            },
+                            {
+                                "id": "15",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "16",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FF00FF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "center",
+                            "horizontalAlignment": "center"
+                        },
+                        "direction": "horizontal",
+                        "children": [
+                            {
+                                "id": "17",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            },
+                            {
+                                "id": "18",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "19",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#00FFFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10,
+                            "verticalAlignment": "end",
+                            "horizontalAlignment": "end"
+                        },
+                        "direction": "horizontal",
+                        "children": [
+                            {
+                                "id": "20",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            },
+                            {
+                                "id": "21",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "22",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#000000"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 10
+                        },
+                        "direction": "horizontal",
+                        "children": [
+                            {
+                                "id": "23",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#00FF00"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            },
+                            {
+                                "id": "24",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 30,
+                                    "heightPercentage": 50
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "id": "25",
+                        "componentType": "container",
+                        "styles": {
+                            "backgroundColor": "#FFCCFF"
+                        },
+                        "positioning": {
+                            "widthPercentage": 100,
+                            "heightPercentage": 20,
+                            "verticalAlignment": "start",
+                            "horizontalAlignment": "start"
+                        },
+                        "direction": "stack",
+                        "children": [
+                            {
+                                "id": "26",
+                                "componentType": "container",
+                                "styles": {
+                                    "backgroundColor": "#0000FF"
+                                },
+                                "positioning": {
+                                    "widthPercentage": 75,
+                                    "heightPercentage": 75,
+                                    "verticalAlignment": "center",
+                                    "horizontalAlignment": "center"
+                                },
+                                "direction": "stack",
+                                "children": [
+                                    {
+                                        "id": "27",
+                                        "componentType": "container",
+                                        "styles": {
+                                            "backgroundColor": "#FF0000"
+                                        },
+                                        "positioning": {
+                                            "widthPercentage": 75,
+                                            "heightPercentage": 75,
+                                            "verticalAlignment": "end",
+                                            "horizontalAlignment": "end"
+                                        },
+                                        "direction": "stack",
+                                        "children": [
+                                            {
+                                                "id": "27",
+                                                "componentType": "container",
+                                                "styles": {
+                                                    "backgroundColor": "#FFFF00"
+                                                },
+                                                "positioning": {
+                                                    "widthPercentage": 75,
+                                                    "heightPercentage": 75
+                                                },
+                                                "direction": "stack",
+                                                "children": [
+                                                    {
+                                                        "id": "27",
+                                                        "componentType": "container",
+                                                        "styles": {
+                                                            "backgroundColor": "#FFFFFF"
+                                                        },
+                                                        "positioning": {
+                                                            "widthPercentage": 75,
+                                                            "heightPercentage": 75
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
+

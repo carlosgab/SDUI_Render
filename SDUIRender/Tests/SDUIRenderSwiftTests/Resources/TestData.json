@@ -1,0 +1,41 @@
+{
+  "id": "test-page",
+  "responsiveLayouts": [
+    {
+      "minWidth": 0,
+      "componentTree": {
+        "componentType": "container",
+        "direction": "vertical",
+        "scrollable": false,
+        "positioning": { "widthPercentage": 100 },
+        "children": [
+          {
+            "componentType": "text",
+            "textContent": "Hello from SDUI!",
+            "styles": {
+              "fontSize": 18,
+              "fontWeight": 700,
+              "color": "#000000"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "paddingPercentage": { "top": 5, "bottom": 5, "start": 4, "end": 4 }
+            }
+          },
+          {
+            "componentType": "image",
+            "image": {
+              "path": "https://via.placeholder.com/300x150",
+              "objectFit": "cover",
+              "objectPosition": "center"
+            },
+            "positioning": {
+              "widthPercentage": 100,
+              "aspectRatio": 2.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
